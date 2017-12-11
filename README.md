@@ -100,14 +100,81 @@
 | Kube-native Postgres [I] - Josh Berkus, RedHat | [Slides] | [Video]() |
 | Don’t Hassle Me, I’m Stateful - Jeff Bornemann & Michael Surbey, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/05/Don%27t%20Hassle%20Me%2C%20I%27m%20Stateful.pdf) | [Video]() | 
 
+## Developer - CloudNativeCon
 
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| The Makers of Marvels: How Developers Are Rebuilding the Enterprise, One Brick at a Time [B] - Abby Kearns, Cloud Foundry Foundation | [Slides] | [Video]() | 
+| Next Generation Services at Indeed Using gRPC [I] - Jaye Pitzeruse, Indeed.com | [Slides](https://schd.ws/hosted_files/kccncna17/d4/CNC%20Next%20Generation%20Servies%20Indeed%20-%202.pptx) | [Video]() |
+| The Art of Documentation and Readme.md for Open Source Projects - Ben Hall, Katacoda | [Slides](https://schd.ws/hosted_files/kccncna17/68/Kubecon%20-%20ArtofDocs%20-%20Ben%20Hall%20-%20Katacoda.pptx) | [Video]() |
+| Distributed Workflows for Microservices-Style Applications [I] - Yun Qin, Nirmata |  [Slides]() | [Video]() |
+| Modifying gRPC Services Over Time [I] - Eric Anderson, Google |  [Slides](https://schd.ws/hosted_files/kccncna17/ad/2017%20CloudNativeCon%20-%20Mod%20gRPC%20Services.pdf) | [Video]() |
+| A Practical Guide to Prometheus for App Developers [B] - Ilya Dmitrichenko, Weaveworks |  [Slides]() | [Video]() |
 
+## Docs Sprint
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| The Makers of Marvels: How Developers Are Rebuilding the Enterprise, One Brick at a Time [B] - Abby Kearns, Cloud Foundry Foundation | [Slides] | [Video]() |
+
+## Extending Kubernetes
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Extending Kubernetes 101 [A] - Travis Nielsen, Quantum Corp | [Slides](https://schd.ws/hosted_files/kccncna17/c8/ExtendingKubernetes101.pdf) | [Video]() |
+| Kubernetes Feature Prototyping with External Controllers and Custom Resource Definitions [I] - Tomas Smetana, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/cf/kubecon_slides_tsmetana.pdf) | [Video]() |
+| Extending the Kubernetes API: What the Docs Don't Tell You [I] - James Munnelly, Jetstack | [Slides] | [Video]() |
+| client-go: The Good, The Bad and The Ugly - Lili Cosic, Kinvolk | [Slides](https://schd.ws/hosted_files/kccncna17/04/client-go.pdf) | [Video]() |
+| Using Custom Resources to Provide Cloud Native API Management - Frank B Greco Jr, Northwestern Mutual | [Slides](https://schd.ws/hosted_files/kccncna17/0f/kanali.pdf) | [Video]() |
+| Extending Kubernetes: Our Journey & Roadmap [I] - Daniel Smith & Eric Tune, Google | [Slides](https://schd.ws/hosted_files/kccncna17/48/Kubernetes%20Extensibility.pdf) | [Video]() |
+
+## Featured Session
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Panel: Kubernetes, Cloud Native and the Public Cloud [B] - Moderated by Dan Kohn, Cloud Native Computing Foundation | [Slides] | [Video]() |
+| Istio: Weaving the Service Mesh [I] - Shriram Rajagopalan, IBM & Louis Ryan | [Slides] | [Video]() |
+| Continuous Delivery with Kubernetes at Box [I] - Greg Lyons, Box | [Slides] | [Video]() |
+| Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together [I] - Brian Redmond, Microsoft | [Slides](https://schd.ws/hosted_files/kccncna17/68/KubeCon%202017%20Brian%20Redmond.pdf) | [Video]() |
+| How Netflix Is Solving Authorization Across Their Cloud [I] - Manish Mehta & Torin Sandall, Netflix | [Slides](https://schd.ws/hosted_files/kccncna17/cb/Manish%20Mehta%20Netflix%20AuthZ%20V4.pdf) | [Video]() |
+| The Good, the Bad and the Ugly of Migrating Hundreds of Legacy Applications to Kubernetes [B] - Josef Adersberger, QAware | [Slides](https://schd.ws/hosted_files/kccncna17/ba/cnc-adersberger-legacy2k8s.pdf) | [Video]() |
+| The Road to More Usable Kubernetes - Joe Beda, Heptio | [Slides] | [Video]() |
+| Building Helm Charts From the Ground Up: An Introduction to Kubernetes [I] - Amy Chen, Heptio | [Slides] | [Video]() |
+| Kubernetes Distributions and 'Kernels' - Tim Hockin & Michael Rubin, Google | [Slides](https://schd.ws/hosted_files/kccncna17/ac/KubeCon_2017_-_Kernels_and_Distros.pdf) | [Video]() |
+| Vault and Secret Management in Kubernetes [I] - Armon Dadgar, HashiCorp | [Slides](https://schd.ws/hosted_files/kccncna17/a1/KubeCon.pdf) | [Video]() |
+| Helm Chart Patterns [I] - Vic Iglesias, Google | [Slides] | [Video]() |
+| The Architecture of a Multi-Cloud Environment with Kubernetes [I] - Brian Redbeard, CoreOS | [Slides](https://schd.ws/hosted_files/kccncna17/12/brianredbeard-multi-environment-k8s.pdf) | [Video]() |
+| You Have Stateful Apps - What if Kubernetes Would Also Run Your Storage? - Annette Clewett & Sudhir Prasad, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/7b/KubeRunningYourStorage1208.pdf) | [Video]() |
+| Istio: Sailing to a Secure Services Mesh [I] - Spike Curtis, Tigera & Dan Berg, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/21/KubeCon2017%20-%20Istio%20Security.pdf) | [Video]() | 
+| Disaster Recovery for your Kubernetes Clusters [I] - Andy Goldstein & Steve Kriss, Heptio | [Slides](https://schd.ws/hosted_files/kccncna17/a9/Disaster%20Recovery%20for%20your%20Kubernetes%20Clusters.pdf) | [Video]() |
+| Persistent Storage with Kubernetes in Production - Which Solution and Why? [I] - Cheryl Hung, StorageOS | [Slides](https://schd.ws/hosted_files/kccncna17/ca/2017-12-8-persistent-storage.pdf) | [Video]() |
+| kubectl apply, and The Dark Art of Declarative Object Management [I] - Aaron Levy, CoreOS | [Slides]() | [Video]() |
+| What Happens When Something Goes Wrong? On Kubernetes Reliability [I] - Marek Grabowski & Tina Zhang, Google | [Slides](https://schd.ws/hosted_files/kccncna17/71/What%20happens%20when%20something%20goes%20wrong.pdf) | [Video]() |
+
+## Hybrid + Multi-Cloud
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Building a Cluster Management API using Kubicorn [A] - Robert Bailey, Google & Kris Nova, Heptio | [Slides](https://schd.ws/hosted_files/kccncna17/2d/Building%20a%20Cluster%20Management%20API%20using%20Kubicorn.pdf) | [Video]() |
+| Managing and Running Multiple Kubernetes Clusters in Hybrid Setups [I] - Sebastian Scheele, Loodse & Simon Pearce, SysEleven | [Slides](https://schd.ws/hosted_files/kccncna17/a0/Managing%20and%20Running%20Multiple%20Kubernetes%20Clusters%20in%20Hybrid%20Setups.pdf) | [Video]() |
+| Hybrid-Cloud, HIPAA Compliant Enterprise with Kubernetes - Steve Sloka, Heptio | [Slides](https://schd.ws/hosted_files/kccncna17/d5/upmce-kubecon2017-v1.4.pdf) | [Video]() |
+| Kuberneters in Hybrid Environments Using Cloud Interconnect [A] - Marc Chisinevski, F5 Networks | [Slides](https://schd.ws/hosted_files/kccncna17/7a/Kubecon%20-%20v0.2.pdf) | [Video]() |
+| Multi-Cluster Ops in a Hybrid World [A] - Vitaliy Zinchenko & Kire Filipovski, Oracle | [Slides] | [Video]() |
+| The Architecture of a Multi-Cloud Environment with Kubernetes [I] - Brian Redbeard, CoreOS | [Slides](https://schd.ws/hosted_files/kccncna17/12/brianredbeard-multi-environment-k8s.pdf) | [Video]() |
 
 ## In Production 
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
 | Embracing Cloud Native at a Thriving, Established Company - Brian Akins, MailChimp | [Slides](https://schd.ws/hosted_files/kccncna17/36/kubecon-2017-v2%20%283%29.pdf) | [Video]() |
-| Scaling to 5000+ Unique K8s Deployments, How We Did It [I] - Nicole Hubbard, WP Engine| [Slides](https://schd.ws/hosted_files/kccncna17/d9/KubeCon%202017%20-%20Lostrómos.pdf)      |   [Video]() |
-
-
+| Running Mixed Workloads on Kubernetes at the Institute for Health Metrics and Evaluation - Dr. Tyrone Grandison, Institute for Health Metrics and Evaluation (IHME), University of Washington | [Slides](https://schd.ws/hosted_files/kccncna17/bc/IHME_Univa_4b.pptx) | [Video]() |
+| Scaling to 5000+ Unique K8s Deployments, How We Did It [I] - Nicole Hubbard, WP Engine | [Slides](https://schd.ws/hosted_files/kccncna17/d9/KubeCon%202017%20-%20Lostrómos.pdf)      |   [Video]() |
+| Automating and Testing Production Ready Kubernetes Clusters in the Public Cloud - Ron Lipke, Gannet/USA Today Network | [Slides](https://schd.ws/hosted_files/kccncna17/b5/rlipke_gannett_kubecon_talk_final.pdf) | [Video]() |
+| Large Scale Teaching Infrastructure with Kubernetes - Yuvi Panda, Berkeley University | [Slides] | [Video]() |
+| 101 Ways to Crash Your Cluster [I] - Marius Grigoriu & Emmanuel Gomez, Nordstrom | [Slides](https://schd.ws/hosted_files/kccncna17/20/KubeCon%20NA%202017-101%20Ways%20to%20Crash%20Your%20Cluster.pdf) | [Video]() |
+| Moving from Mesos to Kubernetes Without Anyone Noticing [I] - Anubhav Mishra, Hootsuite | [Slides](https://schd.ws/hosted_files/kccncna17/f3/Moving%20from%20Mesos%20to%20Kubernetes%20-%20KubeCon%202017.pdf) | [Video]() |
+| Kubernetes in the Datacenter: Squarespace’s Journey Towards Self-Service Infrastructure [I] - Kevin Lynch, Squarespace | [Slides](https://schd.ws/hosted_files/kccncna17/9c/Kubernetes%20in%20the%20Datacenter_%20Squarespace%E2%80%99s%20Journey%20Towards%20Self-Service%20Infrastructure%20%28CloudNativeCon%202017%29.pdf) | [Video]() |
+| Using Kubernetes to Change Legacy Systems and Processes in the Public Sector [B] - Audun Fauchald Strand, Norwegian Welfare Administration | [Slides](https://schd.ws/hosted_files/kccncna17/f9/KUBECON_Using%20Kubernetes%20to%20Change%20Legacy%20Systems%20and%20Processes%20in%20the%20Public%20Sector.pdf) | [Video]() |
+| From Monolith to Microservices with Kubernetes and Linkerd - Mason Jones, Credit Karma | [Slides](https://schd.ws/hosted_files/kccncna17/39/Monolith%20to%20Microservices%20-%20Kubecon%202017.pdf) | [Video]() |
+| Evolving and Supporting Stateful, Multi-Tenant Decisioning Applications in Production [A] - Keith Gasser, Capital One | [Slides](https://schd.ws/hosted_files/kccncna17/a5/FINAL_DRAFT_KC_CNC_NA17_PPT_C1_ADV_20171206_KG_BF_GM.pdf) | [Video]() |
+| The Oregon Trail to Kubernetes [I] - Joshua Roppo, Lytics | [Slides](https://schd.ws/hosted_files/kccncna17/7e/Oregon%20Trail%20to%20Kubernetes.pdf) | [Video]() |
