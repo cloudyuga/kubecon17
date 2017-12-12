@@ -378,23 +378,23 @@
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
 | The NewStack Pancake Breakfast & Podcast: What is service mesh technology, why are we hearing about it and why should we care? | [Slides] | [Video]() |
-| The NewStack Pancake Breakfast & Podcast: Evolving Patterns in Kubernetes and Cloud Native Technologies | [Slides] | [Video] |
+| The NewStack Pancake Breakfast & Podcast: Evolving Patterns in Kubernetes and Cloud Native Technologies | [Slides] | [Video]() |
 
 ## Trainings
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Introduction to Kubernetes and Containers w/Heptio | [Slides] | [Video] |
-| Kubernetes Core Concepts Live Training w/Bitnami | [Slides] | [Video] |
-| Container Troubleshooting with Sysdig Open Source | [Slides] | [Video] |
+| Introduction to Kubernetes and Containers w/Heptio | [Slides] | [Video]() |
+| Kubernetes Core Concepts Live Training w/Bitnami | [Slides] | [Video]() |
+| Container Troubleshooting with Sysdig Open Source | [Slides] | [Video]() |
 
 ## Workshop
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Running Enterprise Kubernetes w/Tectonic | [Slides] | [Video] |
-| Running Enterprise Kubernetes w/Tectonic | [Slides] | [Video] |
-| Building a Secure, Production Grade Kubernetes with Ubuntu | [Slides] | [Video] |
-| Kubernetes: Enterprise Logging Workshop | [Slides] | [Video] |
-| Running Enterprise Kubernetes w/Tectonic | [Slides] | [Video] |
-| Running Enterprise Kubernetes w/Tectonic Free Kubernetes 101 Workshop for the Enterprise w/VMware | [Slides] | [Video] |
+| Running Enterprise Kubernetes w/Tectonic | [Slides] | [Video]() |
+| Running Enterprise Kubernetes w/Tectonic | [Slides] | [Video]() |
+| Building a Secure, Production Grade Kubernetes with Ubuntu | [Slides] | [Video]() |
+| Kubernetes: Enterprise Logging Workshop | [Slides] | [Video]() |
+| Running Enterprise Kubernetes w/Tectonic | [Slides] | [Video]() |
+| Running Enterprise Kubernetes w/Tectonic Free Kubernetes 101 Workshop for the Enterprise w/VMware | [Slides] | [Video]() |
