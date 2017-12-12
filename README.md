@@ -232,6 +232,169 @@
 | Lightning Talk: How to Contribute to Kubernetes [B] - Nikhita Raghunath, Student | [Slides](https://schd.ws/hosted_files/kccncna17/74/KubeCon-Contribute-To-Kubernetes.pdf) | [Video]() |
 | Lightning Talk: Essentials for Building Your Own Database-as-a-Service [B] - Balachandran Chandrasekaran, Dell EMC | [Slides](https://schd.ws/hosted_files/kccncna17/85/Essentials%20for%20building%20DBaaS%20v3.0.pdf) | [Video]() |
 | Lightning Talk: How Kubernetes is Helpful for Accelerating Machine Learning Research and Engineering [I] - Hitoshi Mitake, NTT Labs | [Slides](https://schd.ws/hosted_files/kccncna17/95/kc_cnc_na17_mitake.pdf) | [Video]() |
-| Lightning Talk: Cluster Insights [B] - Xin Ma, eBay | [Slides]() | [Video]() |
-|  | [Slides]() | [Video]() |
-|  | [Slides]() | [Video]() |
+| Lightning Talk: Cluster Insights [B] - Xin Ma, eBay | [Slides] | [Video]() |
+| Lightning Talk: Why is Community so Important? [B] - Yeni Capote Diaz, Samsung SDS | [Slides](https://schd.ws/hosted_files/kccncna17/7f/Yeni-Capote-Diaz.key) | [Video]() |
+| Lightning Talk: Watch This! - Johnathon Rippy, NetApp | [Slides](https://schd.ws/hosted_files/kccncna17/34/KC_NA17_WATCH_THIS_RIPPY.pdf) | [Video]() |
+| Lightning Talk: Stupid Kubectl Tricks - Jordan Liggitt, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/de/Stupid%20Kubectl%20Tricks.pdf) | [Video]() |
+| Lightning Talk: Telepresence: Local Development & Debugging of Remote Kubernetes Services - Abhay Saxena, Datawire | [Slides](https://schd.ws/hosted_files/kccncna17/bf/Telepresence%20Fast%2C%20realistic%20development%20for%20Kubernetes%20services.pdf) | [Video]() |
+| Lightning Talk: Templating K8s: Easily Managing Applications via Common Configuration [B] - Don Steffy & Anubhav Aaeron, Oath | [Slides](https://schd.ws/hosted_files/kccncna17/ec/KubeCon_Templating_K8s.pdf) | [Video]() |
+| Lightning Talk: Testing Kubernetes Patches with kube-spawn, the a local, multi-node Kubernetes Cluster Tool [B] - Chris Kuhl, Kinvolk | [Slides] | [Video]() |
+| Lightning Talk: Moving Fast with Microservices: Building and Deploying Containerized Applications in a Cloud-Native World - Micha Hernandez van Leuffen, Wercker| [Slides] | [Video]() |
+| Lightning Talk: CRI Proxy: Solving the Chicken-and-Egg Problem of Running a CRI Implementation as a DaemonSet [I] - Piotr Skamruk, Mirantis | [Slides](https://schd.ws/hosted_files/kccncna17/39/criproxy_lightning.pdf) | [Video]() |
+| Lightning Talk: REST, RPC, and Brokered Messaging - Nathan Murthy, Tesla | [Slides](https://schd.ws/hosted_files/kccncna17/e7/NATHAN%20MURTHY%20KC_CNC_NA17_PPT_0.pdf) | [Video]() |
+| Lightning Talk: Minikube Developer Workflow and Advanced Tips [B] - Matt Rickard, Google | [Slides](https://schd.ws/hosted_files/kccncna17/2b/Minikube%20Developer%20Workflow%20and%20Advanced%20Tips%20-%20Final.pdf) | [Video]() |
+
+## Meetup
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| DevOps with K8s Meetup | [Slides] | [Video]() |
+
+## Mini Summit
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Summit | [Slides] | [Video]() |
+
+## Observability
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Unified Monitoring of Containers and Microservices [I] - Nishant Sahay, Wipro Limited | [Slides](https://schd.ws/hosted_files/kccncna17/1c/CNCF-UnifiedMonitoring-Final.pdf) | [Video]() |
+| Full Stack Visibility with Elastic: Logs, Metrics and Traces - Carlos Pérez-Aradros, Elastic | [Slides](https://schd.ws/hosted_files/kccncna17/cd/Full%20Stack%20Visibility%20with%20Elastic%20-%20KubeCon%202017.pdf) | [Video]() |
+| Would You Like Some Tracing With Your Monitoring? - Yuri Shkuro, Uber Technologies | [Slides](https://schd.ws/hosted_files/kccncna17/37/KC_CNC_NA17.pdf) | [Video]() |
+| The RED Method: How To Instrument Your Services [B] - Tom Wilkie, Kausal | [Slides] | [Video]() |
+| Fluentd and Distributed Logging [I] - Masahiro Nakagawa, Treasure Data | [Slides](https://schd.ws/hosted_files/kccncna17/3a/fluentd-and-distributed-logging-at-kubecon.pdf) | [Video]() |
+| gRPC WG Update: Easy Instrumentation with OpenCensus - hosted by April Kyle Nassi, Jaana Burcu Dogan & Morgan McLean, Google | [Slides] | [Video]() |
+
+## OCI Community F2F
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| OCI Community F2F | [Slides] | [Video]() |
+
+## Operations - CloudNativeCon
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Establishing Container Trust at Scale [I] - Tim Mackey, Black Duck Software | [Slides] | [Video]() |
+| How We Built a Framework at Twitter to Solve Service Ownership & Improve Infrastructure Utilization at Scale [I] - Vinu Charanya, Twitter | [Slides] | [Video]() |
+| The Mechanics of Deploying Envoy at Lyft - Matt Klein, Lyft | [Slides](https://schd.ws/hosted_files/kccncna17/87/Kubecon%2012%252F17.pdf) | [Video]() |
+| Kubernetes, Metadata and You [I] - Liz Rice, Aqua Security & Gareth Rushgrove, Puppet | [Slides] | [Video]() |
+| Queueing Theory, In Practice: Performance Modelling in Cloud-Native Territory [I] - Eben Freeman, Honeycomb.io | [Slides](https://schd.ws/hosted_files/kccncna17/78/queueing%20theory%20in%20practice.pdf) | [Video]() |
+| Cloud Native Logging 101 [B] - Eduardo Silva, Treasure Data | [Slides] | [Video]() | 
+
+## Policy + Security - CloudNativeCon
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| When the Going Gets Tough, Get TUF Going! [I] - David Lawrence & Ashwini Oruganti, Docker | [Slides] | [Video]() |
+| The Power of Application Intent Analysis for Container Security [I] - John Morello, Twistlock | [Slides](https://schd.ws/hosted_files/kccncna17/ec/KubeCon%202017_final.pdf) | [Video]() |
+| Introducing SPIFFE: An Open Standard for Identity in Cloud Native Environments [I] - Evan Gilman, Scytale | [Slides] | [Video]() |
+| IAM on Hybrid Cloud: Next Generation Security Model to Create an Interoperable Cloud [I] - Jeyappragash JJ & Kamil Pawlowski, padme.io | [Slides] | [Video]() |
+| How Netflix Is Solving Authorization Across Their Cloud [I] - Manish Mehta & Torin Sandall, Netflix | [Slides](https://schd.ws/hosted_files/kccncna17/cb/Manish%20Mehta%20Netflix%20AuthZ%20V4.pdf) | [Video]() |
+| Building a Secure, Multi-Protocol and Multi-Tenant Cluster for Internet-Facing Services [A] - Bich Le, Platform9 | [Slides](https://schd.ws/hosted_files/kccncna17/33/decco_kubecon2017austin.pdf) | [Video]() |
+
+## Policy + Security - KubeCon
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Deploying Kubernetes Without Scaring Off Your Security Team [I] - Paul CzarkowskI, Pivotal & Major Hayden, Rackspace | [Slides](https://schd.ws/hosted_files/kccncna17/db/KubeCon%202017%20-%20Deploying%20Kubernetes%20Without%20Scaring%20Off%20Your%20Security%20Team.pdf) | [Video]() |
+| Preventing Attacks at Scale [I] - Dino Dai Zovi, Capsule8 | [Slides](https://schd.ws/hosted_files/kccncna17/30/Preventing%20Attacks%20at%20Scale.pdf) | [Video]() |
+| Certifik8s: All You Need to Know About Certificates in Kubernetes [I] - Alexander Brand, Apprenda | [Slides](https://schd.ws/hosted_files/kccncna17/15/Certifik8s_%20All%20You%20Need%20to%20Know%20About%20Certificates%20in%20Kubernetes.pdf) | [Video]() |
+| Vault and Secret Management in Kubernetes [I] - Armon Dadgar, HashiCorp | [Slides](https://schd.ws/hosted_files/kccncna17/a1/KubeCon.pdf) | [Video]() |
+| Compliance and Identity Management in Kubernetes [I] - Marc Boorshtein, Tremolo Security, Inc. | [Slides](https://schd.ws/hosted_files/kccncna17/c4/kubecon_idm_k8s_2.pdf) | [Video]() |
+| Multi-Tenancy Support & Security Modeling with RBAC and Namespaces [I] - Fred Vong & Michael Y. Chen, VMware | [Slides](https://schd.ws/hosted_files/kccncna17/21/Multi-tenancy%20Support%20%26%20Security%20Modeling%20with%20RBAC%20and%20Namespaces.pdf) | [Video]() |
+| Shipping in Pirate-Infested Waters: Practical Attack and Defense in Kubernetes [A] - Greg Castle & CJ Cullen, Google | [Slides](https://schd.ws/hosted_files/kccncna17/aa/Kubecon17_Castle_Cullen_Shipping_in_pirate-infested_waters.pdf) | [Video]() |
+| Enforcing Bespoke Policies in Kubernetes [I] - Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncna17/eb/Enforcing%20Bespoke%20Policies%20in%20Kubernetes.pdf) | [Video]() |
+| Hacking and Hardening Kubernetes Clusters by Example [I] - Brad Geesaman, Symantec | [Slides](https://schd.ws/hosted_files/kccncna17/d8/Hacking%20and%20Hardening%20Kubernetes%20By%20Example%20v2.pdf) | [Video]() |
+| Securing Shopify's PaaS on GKE [I] - Jonathan Pulsifer, Shopify | [Slides](https://schd.ws/hosted_files/kccncna17/2d/Securing%20Shopify%27s%20PaaS%20on%20GKE.pdf) | [Video]() |
+| Real Security for Services on Kubernetes [I] - Eric Wang & Yun Zhang, Databricks | [Slides](https://schd.ws/hosted_files/kccncna17/0d/KubeCon-Slides-Databricks.pdf) | [Video]() |
+| Effective RBAC - Jordan Liggitt, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/5b/Effective%20RBAC.pdf) | [Video]() |
+
+## Project Office Hours
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Prometheus Office Hours | [Slides]() | [Video]() |
+
+## Project Salon
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Prometheus Salon - hosted by Frederic Branczyk, CoreOS, Bob Cotton, FreshTracks.io, Goutham Veeramanchaneni, & Tom Wilkie, Kausal | [Slides](https://schd.ws/hosted_files/kccncna17/c4/KubeCon%20P8s%20Salon%20-%20Kubernetes%20Metrics%20Deep%20Dive.pdf) | [Video]() |
+| Fluentd Salon - hosted by Eduardo Silva, Treasure Data | [Slides] | [Video]() |
+| CoreDNS Salon - hosted by John Belamaric, Infoblox | [Slides](https://schd.ws/hosted_files/kccncna17/66/CoreDNS%20Salon%20%28KubeCon%20Austin%202017%29.pdf) | [Video]() |
+| TUF/Notary Salon - hosted by Justin Cappos, NYU & David Lawrence, Docker | [Slides] | [Video]() |
+| Containerd Salon - hosted by Derek McGowan & Stephen Day, Docker & Lantao Liu, Google | [Slides] | [Video]() |
+| Jaeger Salon - hosted by Yuri Shkuro, Uber Technologies & Pavol Loffay, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/32/KCCNCNA17%20Jaeger%20Salon.pdf) | [Video]() |
+| CRI-O - hosted by Daniel Walsh, Red Hat | [Slides] | [Video]() |
+
+## Public TOC Meeting
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Public Technical Oversight Committee (TOC) Meeting | [Slides] | [Video]() |
+
+##  Serverless - KubeCon
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| State of Serverless [B] - Mark Peek, VMware & Doug Davis, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/af/state_of_serverless.pdf) | [Video]() |
+| Building Serverless Application Pipelines [A] - Sebastien Goasguen, Bitnami | [Slides] | [Video]() |
+| FaaS and Furious - 0 to Serverless in 60 Seconds, Anywhere - Alex Ellis, ADP | [Slides] | [Video]() |
+| Fission: Serverless Functions for Kubernetes [B] - Soam Vasani, Platform9 Systems | [Slides] | [Video]() |
+| Pontoon: An Enterprise Grade Serverless Framework Using Kubernetes – As Used in VMware Cloud Services [I] - Kumar Gaurav & Mageshwaran Rajendran, VMware| [Slides](https://schd.ws/hosted_files/kccncna17/f8/PONTOON_KC_CNC_NA17_PPT.pdf) | [Video]() |
+| Building and Running an Enterprise-grade Serverless Platform on Kubernetes - Ying Huang & Quinton Hoole, Huawei | [Slides](https://schd.ws/hosted_files/kccncna17/a2/Serverless-Presentation-12-07-2017.pptx) | [Video]() |
+
+## Services - CloudNativeCon
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Panel: Ask Me Anything: Microservices and Service Mesh [B] - Moderated by Jason McGee, IBM | [Slides] | [Video]() |
+| Istio: Weaving the Service Mesh [I] - Shriram Rajagopalan, IBM & Louis Ryan, Google | [Slides] | [Video]() |
+| Ask Your Proxy, It Knows Everything - Blake Mizerany, Backplane | [Slides] | [Video]() |
+| Microservices Patterns with NGINX Proxy in an Istio Services Mesh [I] - A.J. Hunyady, NGINX Inc | [Slides] | [Video]() |
+| Building an Edge Computing Platform for Network Services Using Cloud Native Technology [I] - Stephen Wong & Vikram Dham, Huawei Technologies, Inc. | [Slides](https://schd.ws/hosted_files/kccncna17/9f/EdgeComputingCloudNative.pdf) | [Video]() |
+| The Service Mesh: Past, Present, and Future [B] - William Morgan, Buoyant | [Slides] | [Video]() |
+
+## Sponsor Showcase Open
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Sponsor Showcase | [Slides] | [Video] |
+
+## Storage - KubeCon
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| You Have Stateful Apps - What if Kubernetes Would Also Run Your Storage? - Annette Clewett & Sudhir Prasad, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/7b/KubeRunningYourStorage1208.pdf) | [Video]() |
+| Local Ephemeral Storage Resource Management - Jing Xu, Google | [Slides](https://schd.ws/hosted_files/kccncna17/3e/Kubecon_localstorage.pdf) | [Video]() |
+| Block Volumes Support in Kubernetes [I] - Mitsuhiro Tanino, Hitachi Data Systems | [Slides](https://schd.ws/hosted_files/kccncna17/8e/Mitsuhiro_Tanino_Block_Volume_KC_CNC_NA17.pdf) | [Video]() |
+| Providing Containerized Cinder Services to Baremetal Kubernetes Clusters [I] - John Griffith, NetApp & Huamin Chen, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/20/CinderForK8s.pdf) | [Video]() |
+| Economics of using Local Storage Attached to VMs on Cloud Providers [I] - Pavel Snagovsky, Quantum | [Slides](https://schd.ws/hosted_files/kccncna17/b3/Cloud%20storage-2.pdf) | [Video]() |
+| Kubernetes Storage Evolution: Enabling High Performance Distributed Datastores [A] - Erin A Boyd, Red Hat & Michelle Au, Google | [Slides](https://schd.ws/hosted_files/kccncna17/3c/2017%20Kubecon%20Storage%20-%20FINAL.pdf) | [Video]() |
+
+## The NewStack Pancake Breakfast & Podcast
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| The NewStack Pancake Breakfast & Podcast: What is service mesh technology, why are we hearing about it and why should we care? | [Slides] | [Video]() |
+| The NewStack Pancake Breakfast & Podcast: Evolving Patterns in Kubernetes and Cloud Native Technologies | [Slides] | [Video] |
+
+## Trainings
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Introduction to Kubernetes and Containers w/Heptio | [Slides] | [Video] |
+| Kubernetes Core Concepts Live Training w/Bitnami | [Slides] | [Video] |
+| Container Troubleshooting with Sysdig Open Source | [Slides] | [Video] |
+
+## Workshop
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Running Enterprise Kubernetes w/Tectonic | [Slides] | [Video] |
+| Running Enterprise Kubernetes w/Tectonic | [Slides] | [Video] |
+| Building a Secure, Production Grade Kubernetes with Ubuntu | [Slides] | [Video] |
+| Kubernetes: Enterprise Logging Workshop | [Slides] | [Video] |
+| Running Enterprise Kubernetes w/Tectonic | [Slides] | [Video] |
+| Running Enterprise Kubernetes w/Tectonic Free Kubernetes 101 Workshop for the Enterprise w/VMware | [Slides] | [Video] |
