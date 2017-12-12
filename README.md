@@ -178,3 +178,14 @@
 | From Monolith to Microservices with Kubernetes and Linkerd - Mason Jones, Credit Karma | [Slides](https://schd.ws/hosted_files/kccncna17/39/Monolith%20to%20Microservices%20-%20Kubecon%202017.pdf) | [Video]() |
 | Evolving and Supporting Stateful, Multi-Tenant Decisioning Applications in Production [A] - Keith Gasser, Capital One | [Slides](https://schd.ws/hosted_files/kccncna17/a5/FINAL_DRAFT_KC_CNC_NA17_PPT_C1_ADV_20171206_KG_BF_GM.pdf) | [Video]() |
 | The Oregon Trail to Kubernetes [I] - Joshua Roppo, Lytics | [Slides](https://schd.ws/hosted_files/kccncna17/7e/Oregon%20Trail%20to%20Kubernetes.pdf) | [Video]() |
+
+## Istio
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| IoK: Istio-on-Kubernetes Deep Dive [I] - Daneyon Hansen, Cisco | [Slides](https://schd.ws/hosted_files/kccncna17/21/KubeCon2017%20-%20Istio%20Security.pdf) | [Video]() |
+| Setting Sail with Istio [B] - Lachlan Evenson, Microsoft | [Slides](https://schd.ws/hosted_files/kccncna17/ab/Setting%20Sail%20with%20Istio.pdf) | [Video]() |
+| Reliable Application Roll Out and Operations with Istio [B] - Lin Sun, IBM & Mandar Jog, Google | [Slides] | [Video]() |
+| Enable your Microservices with Advanced Resiliency and Fault Tolerance Leveraging Istio [I] - Animesh Singh & Tommy Li, IBM | [Slides] | [Video]() |
+| Istio’s Mixer: Policy Enforcement with Custom Adapters [I] - Limin Wang, Google & Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncna17/a6/Istio%27s%20Mixer_%20Policy%20Enforcement%20with%20Custom%20Adapters%20%28CloudNativeCon%2017%29.pdf) | [Video]() |
+
