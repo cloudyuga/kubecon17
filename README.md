@@ -184,8 +184,54 @@
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
 | IoK: Istio-on-Kubernetes Deep Dive [I] - Daneyon Hansen, Cisco | [Slides](https://schd.ws/hosted_files/kccncna17/21/KubeCon2017%20-%20Istio%20Security.pdf) | [Video]() |
+| Istio: Sailing to a Secure Services Mesh [I] - Spike Curtis, Tigera & Dan Berg, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/21/KubeCon2017%20-%20Istio%20Security.pdf) | [Video]() |
 | Setting Sail with Istio [B] - Lachlan Evenson, Microsoft | [Slides](https://schd.ws/hosted_files/kccncna17/ab/Setting%20Sail%20with%20Istio.pdf) | [Video]() |
 | Reliable Application Roll Out and Operations with Istio [B] - Lin Sun, IBM & Mandar Jog, Google | [Slides] | [Video]() |
 | Enable your Microservices with Advanced Resiliency and Fault Tolerance Leveraging Istio [I] - Animesh Singh & Tommy Li, IBM | [Slides] | [Video]() |
 | Istio’s Mixer: Policy Enforcement with Custom Adapters [I] - Limin Wang, Google & Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncna17/a6/Istio%27s%20Mixer_%20Policy%20Enforcement%20with%20Custom%20Adapters%20%28CloudNativeCon%2017%29.pdf) | [Video]() |
 
+## Keynote
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Keynote: A Community of Builders: CloudNativeCon Opening Keynote - Dan Kohn, Executive Director, Cloud Native Computing Foundation | [Slides](https://schd.ws/hosted_files/kccncna17/e7/Keynote%20-%20Dan%20Kohn%20-%20KCCNC%20NA%202017%20FINAL.pdf) | [Video]() |
+|  Keynote: CNCF Project Updates - Michelle Noorali, Senior Software Engineer, Microsoft Azure | [Slides]() | [Video]() |
+|  Keynote: Accelerating the Digital Transformation - Imad Sousou, VP, Software Services Group & GM, OpenSource Technology Center, Intel Corporation | [Slides]() | [Video]() |
+| Keynote: Cloud Native CD: Spinnaker and the Culture Behind the Tech - Dianne Marsh, Director of Engineering, Netflix  | [Slides] | [Video]() |
+| Keynote: Cloud Native at AWS - Adrian Cockcroft, Vice President Cloud Architecture Strategy, Amazon Web Services | [Slides] | [Video]() |
+| Keynote: Service Meshes and Observability - Ben Sigelman, Co-founder & CEO, Lightstep | [Slides] | [Video]() |
+| Keynote: Kubernetes: This Job is Too Hard: Building New Tools, Patterns and Paradigms to Democratize Distributed System Development - Brendan Burns, Distinguished Engineer, Microsoft | [Slides] | [Video]() |
+| Keynote: Can 100 Million Developers Use Kubernetes? - Alexis Richardson, CEO, Weaveworks | [Slides] | [Video]() |
+| Keynote: KubeCon Opening Keynote - Project Update - Kelsey Hightower, Staff Developer Advocate, Google | [Slides] | [Video]() |
+| Keynote: Kubernetes Secret Superpower - Chen Goldberg & Anthony Yeh, Google | [Slides] | [Video]() |
+| Keynote: Red Hat: Making Containers Boring (again) - Clayton Coleman, Architect, Kubernetes and OpenShift, Red Hat | [Slides] | [Video]() |
+| Keynote: Pushing the Limits of Kubernetes with Game of Thrones - Zihao Yu & Illya Chekrygin, HBO | [Slides](https://schd.ws/hosted_files/kccncna17/d6/KubeCon_Keynote_HBO.pdf) | [Video]() |
+| Keynote: Progress Toward Zero Trust Kubernetes Networks - Spike Curtis, Senior Software Engineer, Tigera | [Slides] | [Video]() |
+| Keynote: The Road Ahead on the Kubernetes Journey - Craig McLuckie, CEO, Heptio | [Slides] | [Video]() |
+| Keynote: Kubernetes Community - Sarah Novotny, Head of Open Source Strategy, Google Cloud Platform, Google | [Slides] | [Video]() |
+| Keynote: Kubernetes at GitHub - Jesse Newland, Principal Site Reliability Engineer, GitHub | [Slides](https://schd.ws/hosted_files/kccncna17/44/kubernetes-at-github.pdf) | [Video]() |
+| Keynote: Manage the App on Kubernetes - Brandon Philips, CTO, CoreOS | [Slides](https://schd.ws/hosted_files/kccncna17/71/Keynote_%20Manage%20the%20App%20on%20Kubernetes%20-%20Brandon%20Philips%2C%20CTO%2C%20CoreOS%20KubeCon%20Austin%202017.pdf) | [Video]() |
+| Keynote: What's Next? Getting Excited about Kubernetes in 2018 - Clayton Coleman, Architect, Kubernetes and OpenShift, Red Hat | [Slides] | [Video]() |
+| Keynote: What is Kubernetes? - Brian Grant, Principal Engineer, Google | [Slides] | [Video]() |
+
+## Kubernetes 101
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Welcome to Kubernetes - Introduction and Toolkit for Getting Started with Kubernetes [B] - Guinevere Saenger, Samsung SDS | [Slides](https://schd.ws/hosted_files/kccncna17/44/KubeCon-talk.pp.pdf) | [Video]() |
+| Persistent Storage with Kubernetes in Production - Which Solution and Why? [I] - Cheryl Hung, StorageOS | [Slides](https://schd.ws/hosted_files/kccncna17/ca/2017-12-8-persistent-storage.pdf) | [Video]() |
+| Monitoring Kubernetes: Follow the Data [B] - Ilan Rabinovitch, Datadog | [Slides] | [Video]() |
+| From Screen to Pods: Bootstrapping a Cloud Agnostic System using Kubernetes [I] - Patrick McQuighan, Algorithmia | [Slides](https://schd.ws/hosted_files/kccncna17/bc/Kubecon2017%20Bootstrapping%20Cloud%20Agnostic%20System%20.pdf) | [Video]() |
+
+## Lightning Talk
+
+| Topic        | Presetation          | Video  |
+| ------------- |:-------------:| -----:|
+| Lightning Talks - hosted by Sarah Zelechoski | [Slides] | [Video]() |
+| Lightning Talk: Building Scalable Test Infrastructure with Kubernetes [I] - Allan Schiebold, Codefresh | [Slides] | [Video]() |
+| Lightning Talk: How to Contribute to Kubernetes [B] - Nikhita Raghunath, Student | [Slides](https://schd.ws/hosted_files/kccncna17/74/KubeCon-Contribute-To-Kubernetes.pdf) | [Video]() |
+| Lightning Talk: Essentials for Building Your Own Database-as-a-Service [B] - Balachandran Chandrasekaran, Dell EMC | [Slides](https://schd.ws/hosted_files/kccncna17/85/Essentials%20for%20building%20DBaaS%20v3.0.pdf) | [Video]() |
+| Lightning Talk: How Kubernetes is Helpful for Accelerating Machine Learning Research and Engineering [I] - Hitoshi Mitake, NTT Labs | [Slides](https://schd.ws/hosted_files/kccncna17/95/kc_cnc_na17_mitake.pdf) | [Video]() |
+| Lightning Talk: Cluster Insights [B] - Xin Ma, eBay | [Slides]() | [Video]() |
+|  | [Slides]() | [Video]() |
+|  | [Slides]() | [Video]() |
