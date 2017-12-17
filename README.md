@@ -4,7 +4,7 @@
 
 | Topic        | Presetation          | Video  |
 |------------- |:-------------:| -----:|
-| The Road to More Usable Kubernetes - Joe Beda, Heptio | [Slides]() | [Video] |
+| The Road to More Usable Kubernetes - Joe Beda, Heptio | [Slides]() | [Video]() |
 | Squash: A Debugger for Kubernetes Apps - Idit Levine, solo.io | [Slides]() | [Video] |
 | Testing Distributed Software on Kubernetes with PowerfulSeal [I] - Mikolaj Pawlikowski, Bloomberg | [Slides]() | [Video] |
 | Developing Locally with Kubernetes [I] - Ryan Jarvinen, Independent | [Slides](https://schd.ws/hosted_files/kccncna17/3f/Developing-Locally-with-Kubernetes-Kubecon-NA-2017.pdf) | [Video] |
