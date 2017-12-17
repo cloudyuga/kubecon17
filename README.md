@@ -194,7 +194,7 @@
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Keynote: A Community of Builders: CloudNativeCon Opening Keynote - Dan Kohn, Executive Director, Cloud Native Computing Foundation | [Slides](https://schd.ws/hosted_files/kccncna17/e7/Keynote%20-%20Dan%20Kohn%20-%20KCCNC%20NA%202017%20FINAL.pdf) | [Video] |
+| Keynote: A Community of Builders: CloudNativeCon Opening Keynote - Dan Kohn, Executive Director, Cloud Native Computing Foundation | [Slides](https://schd.ws/hosted_files/kccncna17/e7/Keynote%20-%20Dan%20Kohn%20-%20KCCNC%20NA%202017%20FINAL.pdf) | [Video](https://www.youtube.com/watch?v=Z3aBWkNXnhw&list=PLj6h78yzYM2P-3-xqvmWaZbbI1sW-ulZb) |
 |  Keynote: CNCF Project Updates - Michelle Noorali, Senior Software Engineer, Microsoft Azure | [Slides]() | [Video] |
 |  Keynote: Accelerating the Digital Transformation - Imad Sousou, VP, Software Services Group & GM, OpenSource Technology Center, Intel Corporation | [Slides]() | [Video] |
 | Keynote: Cloud Native CD: Spinnaker and the Culture Behind the Tech - Dianne Marsh, Director of Engineering, Netflix  | [Slides] | [Video] |
