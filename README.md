@@ -13,7 +13,7 @@
 | A Scheduling Simulator for Capacity Estimation of Kubernetes Clusters - Avesh Agarwal, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/e0/cluster-capacity-kubecon-austin-tx-2017-latest.pdf) | [Video] |
 | Webhooks for Automated Updates [B] - Rajashree Mandaogane, Rancher Labs | [Slides](https://schd.ws/hosted_files/kccncna17/fd/WebhooksForAutomatedUpdates.pdf) | [Video] |
 | CrashLoopBackoff, Pending, FailedMount and Friends: Debugging Common Kubernetes Cluster and Application Issues [B] - Joe Thompson, Oteemo | [Slides](https://schd.ws/hosted_files/kccncna17/be/CrashLoopBackoff-Pending-FailedMount-and-Friends-draft.pdf) | [Video] |
-| One Chart to Rule Them All: Continuous Deployment with Helm at Ticketmaster - Michael Goodness & Raphael Deem, Ticketmaster | [Slides]() | [Video] |
+| One Chart to Rule Them All: Continuous Deployment with Helm at Ticketmaster - Michael Goodness & Raphael Deem, Ticketmaster | [Slides]() | [Video](https://www.youtube.com/watch?v=QQsq2Ny5a4A) |
 | kubectl apply, and The Dark Art of Declarative Object Management [I] - Aaron Levy, CoreOS | [Slides]() | [Video] |
 | ConfigMaps 102: Using ConfigMaps in Dynamic Application Deployments - Trevor McKay, Red Hat | [Slides]() | [Video] |
 
