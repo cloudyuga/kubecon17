@@ -197,16 +197,16 @@
 | Keynote: A Community of Builders: CloudNativeCon Opening Keynote - Dan Kohn, Executive Director, Cloud Native Computing Foundation | [Slides](https://schd.ws/hosted_files/kccncna17/e7/Keynote%20-%20Dan%20Kohn%20-%20KCCNC%20NA%202017%20FINAL.pdf) | [Video](https://www.youtube.com/watch?v=Z3aBWkNXnhw) |
 |  Keynote: CNCF Project Updates - Michelle Noorali, Senior Software Engineer, Microsoft Azure | [Slides]() | [Video](https://www.youtube.com/watch?v=zPOlDe-J9ZA) |
 |  Keynote: Accelerating the Digital Transformation - Imad Sousou, VP, Software Services Group & GM, OpenSource Technology Center, Intel Corporation | [Slides]() | [Video](https://www.youtube.com/watch?v=pqoDF4QCRy8) |
-| Keynote: Cloud Native CD: Spinnaker and the Culture Behind the Tech - Dianne Marsh, Director of Engineering, Netflix  | [Slides] | [Video](https://www.youtube.com/watch?v=zPOlDe-J9ZA) |
-| Keynote: Cloud Native at AWS - Adrian Cockcroft, Vice President Cloud Architecture Strategy, Amazon Web Services | [Slides] | [Video](https://www.youtube.com/watch?v=zPOlDe-J9ZA) |
-| Keynote: Service Meshes and Observability - Ben Sigelman, Co-founder & CEO, Lightstep | [Slides] | [Video](https://www.youtube.com/watch?v=zPOlDe-J9ZA) |
-| Keynote: Kubernetes: This Job is Too Hard: Building New Tools, Patterns and Paradigms to Democratize Distributed System Development - Brendan Burns, Distinguished Engineer, Microsoft | [Slides] | [Video](https://www.youtube.com/watch?v=zPOlDe-J9ZA) |
+| Keynote: Cloud Native CD: Spinnaker and the Culture Behind the Tech - Dianne Marsh, Director of Engineering, Netflix  | [Slides] | [Video](https://www.youtube.com/watch?v=mfFtfaulCtg) |
+| Keynote: Cloud Native at AWS - Adrian Cockcroft, Vice President Cloud Architecture Strategy, Amazon Web Services | [Slides] | [Video](https://www.youtube.com/watch?v=5U-6sxR5DaQ) |
+| Keynote: Service Meshes and Observability - Ben Sigelman, Co-founder & CEO, Lightstep | [Slides] | [Video](https://www.youtube.com/watch?v=RGT5XHH_Gis) |
+| Keynote: Kubernetes: This Job is Too Hard: Building New Tools, Patterns and Paradigms to Democratize Distributed System Development - Brendan Burns, Distinguished Engineer, Microsoft | [Slides] | [Video](https://www.youtube.com/watch?v=gCQfFXSHSxw) |
 | Keynote: Can 100 Million Developers Use Kubernetes? - Alexis Richardson, CEO, Weaveworks | [Slides] | [Video](https://www.youtube.com/watch?v=21l8v6eObcc) |
 | Keynote: KubeCon Opening Keynote - Project Update - Kelsey Hightower, Staff Developer Advocate, Google | [Slides] | [Video](https://www.youtube.com/watch?v=07jq-5VbBVQ) |
 | Keynote: Kubernetes Secret Superpower - Chen Goldberg & Anthony Yeh, Google | [Slides] | [Video](https://www.youtube.com/watch?v=1kjgwXP_N7A) |
 | Keynote: Red Hat: Making Containers Boring (again) - Clayton Coleman, Architect, Kubernetes and OpenShift, Red Hat | [Slides] | [Video](https://www.youtube.com/watch?v=AE0gZlA2sZ8) |
 | Keynote: Pushing the Limits of Kubernetes with Game of Thrones - Zihao Yu & Illya Chekrygin, HBO | [Slides](https://schd.ws/hosted_files/kccncna17/d6/KubeCon_Keynote_HBO.pdf) | [Video](https://www.youtube.com/watch?v=7skInj_vqN0) |
-| Keynote: Progress Toward Zero Trust Kubernetes Networks - Spike Curtis, Senior Software Engineer, Tigera | [Slides] | [Video](https://www.youtube.com/watch?v=Agxt9Vg-YP4&t=1s) |
+| Keynote: Progress Toward Zero Trust Kubernetes Networks - Spike Curtis, Senior Software Engineer, Tigera | [Slides] | [Video](https://www.youtube.com/watch?v=Agxt9Vg-YP4) |
 | Keynote: The Road Ahead on the Kubernetes Journey - Craig McLuckie, CEO, Heptio | [Slides] | [Video](https://www.youtube.com/watch?v=3FR82H7NwAw) |
 | Keynote: Kubernetes Community - Sarah Novotny, Head of Open Source Strategy, Google Cloud Platform, Google | [Slides] | [Video](https://www.youtube.com/watch?v=-5R_GbGg1nI) |
 | Keynote: Kubernetes at GitHub - Jesse Newland, Principal Site Reliability Engineer, GitHub | [Slides](https://schd.ws/hosted_files/kccncna17/44/kubernetes-at-github.pdf) | [Video](https://www.youtube.com/watch?v=OgRHIZt8Yy8) |
