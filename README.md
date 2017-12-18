@@ -89,7 +89,6 @@
 | BoF: Machine Learning on Kubernetes - hosted by David Aronchick, Google | [Slides] | [Video] |
 | All You Need to Know to Build Your GPU Machine Learning Cloud [B] - Ye Lu, Qunar |  [Slides] | [Video](https://www.youtube.com/watch?v=IoEFLGe4EFs) |
 | Building GPU-Accelerated Workflows with TensorFlow and Kubernetes [I] - Daniel Whitenack, Pachyderm | [Slides](https://schd.ws/hosted_files/kccncna17/07/KubeCon-Pachyderm%282%29.pdf) | [Video](https://www.youtube.com/watch?v=OZSA5hmkb0o) |
-| Building GPU-Accelerated Workflows with TensorFlow and Kubernetes [I] - Daniel Whitenack, Pachyderm | [Slides](https://schd.ws/hosted_files/kccncna17/07/KubeCon-Pachyderm%282%29.pdf) | [Video] |
 | "Hot Dogs or Not" - At Scale with Kubernetes [I] - Vish Kannan & David Aronchick, Google | [Slides] | [Video] |
 | eBay Geo-Distributed Database on Kubernetes [A] - Chengyuan Li & Xinglang Wang, eBay |
 | Running MySQL on Kubernetes [I] - Patrick Galbraith, Consultant | [Slides](https://schd.ws/hosted_files/kccncna17/4d/MySQL%20on%20Kubernetes.pdf) | [Video] |
