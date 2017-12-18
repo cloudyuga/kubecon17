@@ -195,8 +195,8 @@
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
 | Keynote: A Community of Builders: CloudNativeCon Opening Keynote - Dan Kohn, Executive Director, Cloud Native Computing Foundation | [Slides](https://schd.ws/hosted_files/kccncna17/e7/Keynote%20-%20Dan%20Kohn%20-%20KCCNC%20NA%202017%20FINAL.pdf) | [Video](https://www.youtube.com/watch?v=Z3aBWkNXnhw) |
-|  Keynote: CNCF Project Updates - Michelle Noorali, Senior Software Engineer, Microsoft Azure | [Slides]() | [Video](https://www.youtube.com/watch?v=zPOlDe-J9ZA) |
-|  Keynote: Accelerating the Digital Transformation - Imad Sousou, VP, Software Services Group & GM, OpenSource Technology Center, Intel Corporation | [Slides]() | [Video](https://www.youtube.com/watch?v=pqoDF4QCRy8) |
+|  Keynote: CNCF Project Updates - Michelle Noorali, Senior Software Engineer, Microsoft Azure | [Slides] | [Video](https://www.youtube.com/watch?v=zPOlDe-J9ZA) |
+|  Keynote: Accelerating the Digital Transformation - Imad Sousou, VP, Software Services Group & GM, OpenSource Technology Center, Intel Corporation | [Slides] | [Video](https://www.youtube.com/watch?v=pqoDF4QCRy8) |
 | Keynote: Cloud Native CD: Spinnaker and the Culture Behind the Tech - Dianne Marsh, Director of Engineering, Netflix  | [Slides] | [Video](https://www.youtube.com/watch?v=mfFtfaulCtg) |
 | Keynote: Cloud Native at AWS - Adrian Cockcroft, Vice President Cloud Architecture Strategy, Amazon Web Services | [Slides] | [Video](https://www.youtube.com/watch?v=5U-6sxR5DaQ) |
 | Keynote: Service Meshes and Observability - Ben Sigelman, Co-founder & CEO, Lightstep | [Slides] | [Video](https://www.youtube.com/watch?v=RGT5XHH_Gis) |
