@@ -4,55 +4,56 @@
 
 | Topic        | Presetation          | Video  |
 |------------- |:-------------:| -----:|
-| The Road to More Usable Kubernetes - Joe Beda, Heptio | [Slides]() | [Video]() |
-| Squash: A Debugger for Kubernetes Apps - Idit Levine, solo.io | [Slides]() | [Video] |
-| Testing Distributed Software on Kubernetes with PowerfulSeal [I] - Mikolaj Pawlikowski, Bloomberg | [Slides]() | [Video] |
+| The Road to More Usable Kubernetes - Joe Beda, Heptio | [Slides]() | [Video](https://www.youtube.com/watch?v=QQsq2Ny5a4A) |
+| Squash: A Debugger for Kubernetes Apps - Idit Levine, solo.io | [Slides](https://schd.ws/hosted_files/kccncna17/ef/KUBECON2017E_Idit%20Levine.pdf) | [Video](https://www.youtube.com/watch?v=5TrV3qzXlgI) |
+| Testing Distributed Software on Kubernetes with PowerfulSeal [I] - Mikolaj Pawlikowski, Bloomberg | [Slides] | [Video](https://www.youtube.com/watch?v=00BMn0UjsG4) |
 | Developing Locally with Kubernetes [I] - Ryan Jarvinen, Independent | [Slides](https://schd.ws/hosted_files/kccncna17/3f/Developing-Locally-with-Kubernetes-Kubecon-NA-2017.pdf) | [Video] |
-| Helm Chart Patterns [I] - Vic Iglesias, Google | [Slides]() | [Video] |
-| Developer Tooling for Kubernetes Configuration [I] - Gareth Rushgrove, Puppet | [Slides]() | [Video] |
-| A Scheduling Simulator for Capacity Estimation of Kubernetes Clusters - Avesh Agarwal, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/e0/cluster-capacity-kubecon-austin-tx-2017-latest.pdf) | [Video] |
-| Webhooks for Automated Updates [B] - Rajashree Mandaogane, Rancher Labs | [Slides](https://schd.ws/hosted_files/kccncna17/fd/WebhooksForAutomatedUpdates.pdf) | [Video] |
-| CrashLoopBackoff, Pending, FailedMount and Friends: Debugging Common Kubernetes Cluster and Application Issues [B] - Joe Thompson, Oteemo | [Slides](https://schd.ws/hosted_files/kccncna17/be/CrashLoopBackoff-Pending-FailedMount-and-Friends-draft.pdf) | [Video] |
-| One Chart to Rule Them All: Continuous Deployment with Helm at Ticketmaster - Michael Goodness & Raphael Deem, Ticketmaster | [Slides]() | [Video](https://www.youtube.com/watch?v=QQsq2Ny5a4A) |
-| kubectl apply, and The Dark Art of Declarative Object Management [I] - Aaron Levy, CoreOS | [Slides]() | [Video] |
-| ConfigMaps 102: Using ConfigMaps in Dynamic Application Deployments - Trevor McKay, Red Hat | [Slides]() | [Video] |
+| Helm Chart Patterns [I] - Vic Iglesias, Google | [Slides] | [Video](https://www.youtube.com/watch?v=WugC_mbbiWU) |
+| Developer Tooling for Kubernetes Configuration [I] - Gareth Rushgrove, Puppet | [Slides] | [Video](https://www.youtube.com/watch?v=P_A9M8iEMoo) |
+| A Scheduling Simulator for Capacity Estimation of Kubernetes Clusters - Avesh Agarwal, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/e0/cluster-capacity-kubecon-austin-tx-2017-latest.pdf) | [Video](https://www.youtube.com/watch?v=uNQt5Y8RTZk) |
+| Webhooks for Automated Updates [B] - Rajashree Mandaogane, Rancher Labs | [Slides](https://schd.ws/hosted_files/kccncna17/fd/WebhooksForAutomatedUpdates.pdf) | [Video](https://www.youtube.com/watch?v=OgJC7oi7Uh8) |
+| CrashLoopBackoff, Pending, FailedMount and Friends: Debugging Common Kubernetes Cluster and Application Issues [B] - Joe Thompson, Oteemo | [Slides](https://schd.ws/hosted_files/kccncna17/be/CrashLoopBackoff-Pending-FailedMount-and-Friends-draft.pdf) | [Video](https://www.youtube.com/watch?v=7FOCG5kua1w) |
+| One Chart to Rule Them All: Continuous Deployment with Helm at Ticketmaster - Michael Goodness & Raphael Deem, Ticketmaster | [Slides] | [Video](https://www.youtube.com/watch?v=HzJ9ycX1h0c) |
+| kubectl apply, and The Dark Art of Declarative Object Management [I] - Aaron Levy, CoreOS | [Slides](https://schd.ws/hosted_files/kccncna17/a3/kubectl%20apply.pdf) | [Video](https://www.youtube.com/watch?v=CW3ZuQy_YZw) |
+| ConfigMaps 102: Using ConfigMaps in Dynamic Application Deployments - Trevor McKay, Red Hat | [Slides] | [Video](https://www.youtube.com/watch?v=drDj4fr7G2Y) |
 
 ## BoF (Birds-of-a-Feather)
 
 | Topic        | Presetation          | Video  |
 |------------- |:-------------:| -----:|
-| BoF: Identity & Microservices - Hosted by Sunil James, Scytale | [Slides]() | [Video] |
-| No Link Available for all | [Slides]() | [Video] |
+| BoF: Identity & Microservices - Hosted by Sunil James, Scytale | [Slides] | [Video] |
+| BoF: Grafeas: Using Artifact Metadata to Audit, Govern, and Secure Your Software Supply Chain - hosted by Stephen Elliott & Wendy Dembowski, Google & Graeme Hay, Morgan Stanley | [Slides](https://schd.ws/hosted_files/kccncna17/c6/KubeCon%202017_%20Grafeas%20BoF%202017-12-06.pdf) | [Video] |
+| BoF: Kubernetes DevStats (devstats.k8s.io) hosted by Dan Kohn & Lukasz Gryglicki, CNCF | [Slides] | [Video] |
 
 ## Case Studies - CloudNativeCon
 
 | Topic        | Presetation          | Video  |
 |------------- |:-------------:| -----:|
-| Panel: Kubernetes, Cloud Native and the Public Cloud [B] - Moderated by Dan Kohn, Cloud Native Computing Foundation | [Slides]() | [Video] |
-| DevOps Friendly Doc Publishing for APIs & Microservices - Amanda Whaley, Cisco DevNet | [Slides](https://schd.ws/hosted_files/kccncna17/d2/AmandaWhaley-DevOpsFriendlyDocs-CloudNativeCon-Final.pdf) | [Video] |
-| Pinterest's Journey from VMs to Containers [I] - Michael Benedict, Pinterest | [Slides]() | [Video] |
-| The True Costs of Running Cloud Native Infrastructure [B] - Dmytro Dyachuk, Pax Automa | [Slides](https://schd.ws/hosted_files/kccncna17/5f/True%20Costs%20Dyachuk%20%282%29.pdf) | [Video] |
-| Bottoms-Up Adoption of a Microservices Workflow Using Kubernetes & Envoy - Rafael Schloming & Phil Lombardi, Datawire | [Slides](https://schd.ws/hosted_files/kccncna17/8a/Copy%20of%20Service%20Oriented%20Development%20%28Kubecon%20Austin%202017%29.pdf) | [Video] |
-| The Good, the Bad and the Ugly of Migrating Hundreds of Legacy Applications to Kubernetes [B] - Josef Adersberger, QAware | [Slides](https://schd.ws/hosted_files/kccncna17/ba/cnc-adersberger-legacy2k8s.pdf) | [Video] |
+| Panel: Kubernetes, Cloud Native and the Public Cloud [B] - Moderated by Dan Kohn, Cloud Native Computing Foundation | [Slides] | [Video](https://www.youtube.com/watch?v=aYOqB3QUILY) |
+| DevOps Friendly Doc Publishing for APIs & Microservices - Amanda Whaley, Cisco DevNet | [Slides](https://schd.ws/hosted_files/kccncna17/d2/AmandaWhaley-DevOpsFriendlyDocs-CloudNativeCon-Final.pdf) | [Video](https://www.youtube.com/watch?v=57moZYJstdU) |
+| Pinterest's Journey from VMs to Containers [I] - Michael Benedict, Pinterest | [Slides] | [Video](https://www.youtube.com/watch?v=YNAa0ZFkRo8) |
+| The True Costs of Running Cloud Native Infrastructure [B] - Dmytro Dyachuk, Pax Automa | [Slides](https://schd.ws/hosted_files/kccncna17/5f/True%20Costs%20Dyachuk%20%282%29.pdf) | [Video](https://www.youtube.com/watch?v=NElaNl1Kwkw) |
+| Bottoms-Up Adoption of a Microservices Workflow Using Kubernetes & Envoy - Rafael Schloming & Phil Lombardi, Datawire | [Slides](https://schd.ws/hosted_files/kccncna17/8a/Copy%20of%20Service%20Oriented%20Development%20%28Kubecon%20Austin%202017%29.pdf) | [Video](https://www.youtube.com/watch?v=GfrPVlRx5Gk) |
+| The Good, the Bad and the Ugly of Migrating Hundreds of Legacy Applications to Kubernetes [B] - Josef Adersberger, QAware | [Slides](https://schd.ws/hosted_files/kccncna17/ba/cnc-adersberger-legacy2k8s.pdf) | [Video](https://www.youtube.com/watch?v=yB6Zl8nqqqE) |
 
 ## Cluster Deployment Patterns
 
 | Topic        | Presetation          | Video  |
 |------------- |:-------------:| -----:|
-| Hybrid Cloud Powered by Kubernetes [I] - Aparna Sinha, Eric Brewer & Matthew DeLio, Google | [Slides]() | [Video] |
-| Zero Configuration Pattern of Kubernetes on Bare Metal [A] - Rob Hirschfeld, RackN | [Slides](https://schd.ws/hosted_files/kccncna17/70/Kubecon%202017%20Zero%20Touch%20Provision.pdf) | [Video] |
-| Cost-effective Compute Clusters with Spot and Pre-emptible Instances [I] - Bich Le & Arun Sriraman, Platform9 | [Slides](https://schd.ws/hosted_files/kccncna17/6c/Cost-effective%20Compute%20Clusters%20Kubecon2017.pdf) | [Video] |
+| Hybrid Cloud Powered by Kubernetes [I] - Aparna Sinha, Eric Brewer & Matthew DeLio, Google | [Slides]() | [Video](https://www.youtube.com/watch?v=PBfHylG4wSE) |
+| Zero Configuration Pattern of Kubernetes on Bare Metal [A] - Rob Hirschfeld, RackN | [Slides](https://schd.ws/hosted_files/kccncna17/70/Kubecon%202017%20Zero%20Touch%20Provision.pdf) | [Video](https://www.youtube.com/watch?v=Psm9aOWzfWk) |
+| Cost-effective Compute Clusters with Spot and Pre-emptible Instances [I] - Bich Le & Arun Sriraman, Platform9 | [Slides](https://schd.ws/hosted_files/kccncna17/6c/Cost-effective%20Compute%20Clusters%20Kubecon2017.pdf) | [Video](https://www.youtube.com/watch?v=1ZeDabvJFbY) |
 | Self-Hosted Kubernetes: How and Why [I] - Diego Pontoriero, CoreOS | [Slides](https://schd.ws/hosted_files/kccncna17/50/Self-Hosted%20Kubernetes_%20How%20and%20Why.pdf) | [Video] |
-| Cluster-in-a-Box: Deploying Kubernetes on lxd [B] - Rye Terrell, Canonical & Marco Ceppi, The Silph Road | [Slides](https://schd.ws/hosted_files/kccncna17/b2/Cluster-in-a-box.pptx) | [Video] |
-| Using Kubo to Manage your Kubernetes Clusters [I] - Oleksandr Slynko & Brendan Nolan, Pivotal | [Slides](https://schd.ws/hosted_files/kccncna17/f4/Using%20CFCR%20to%20manage%20your%20Kubernetes%20Clusters%20-%20Complete.pdf) | [Video] |
+| Cluster-in-a-Box: Deploying Kubernetes on lxd [B] - Rye Terrell, Canonical & Marco Ceppi, The Silph Road | [Slides](https://schd.ws/hosted_files/kccncna17/b2/Cluster-in-a-box.pptx) | [Video](https://www.youtube.com/watch?v=kQslklE5dKs) |
+| Using Kubo to Manage your Kubernetes Clusters [I] - Oleksandr Slynko & Brendan Nolan, Pivotal | [Slides](https://schd.ws/hosted_files/kccncna17/f4/Using%20CFCR%20to%20manage%20your%20Kubernetes%20Clusters%20-%20Complete.pdf) | [Video](https://www.youtube.com/watch?v=7qzVgi3kg2k)|
 
 ## Community/SIG
 
 | Topic        | Presetation          | Video  |
 |------------- |:-------------:| -----:|
-| CNCF Storage Working Group Meeting - Hosted by Clint Kitson, {code} & Ben Hindman, Mesosphere | [Slides]() | [Video] |
+| CNCF Storage Working Group Meeting - Hosted by Clint Kitson, {code} & Ben Hindman, Mesosphere | [Slides] | [Video] |
 | WG Container Identity Update - hosted by Greg Castle, Google & Clayton Coleman, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/ce/Kubecon17_Container_Identity_Working_Group_Update.pdf) | [Video] |
-| SIG Jaeger Update - hosted by Yuri Shkuro, Uber Technologies & Pavol Loffay, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/09/KCCNCNA17%20Jaeger%20Update.pdf) | [Video] |
+| SIG Jaeger Update - hosted by Yuri Shkuro, Uber Technologies & Pavol Loffay, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/09/KCCNCNA17%20Jaeger%20Update.pdf) | [Video](https://www.youtube.com/watch?v=1NDq86kbvbU) |
 | SIG Cluster Lifecycle Update - hosted by Robert Bailey, Google & Lucas Käldström | [Slides](https://schd.ws/hosted_files/kccncna17/44/KubeCon%20Austin%20SIG%20Cluster%20Lifecycle%20Update.pdf) | [Video] |
 | SIG Jaeger Deep Dive Session - hosted by Yuri Shkuro, Uber Technologies & Pavol Loffay, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/3d/KCCNCNA17%20Jaeger%20Deep%20Dive.pdf) | [Video] |
 | SIG API-Machinery Update - hosted by Daniel Smith, Google | [Slides](https://schd.ws/hosted_files/kccncna17/d6/SIG%20API%20Machinery%20Update.pdf) | [Video] |
@@ -63,31 +64,31 @@
 
 | Topic        | Presetation          | Video  |
 |------------- |:-------------:| -----:|
-| Runtime and Image Format Standards - What it Means to be “OCI-Certified” [I] - Jeff Borek, IBM & Stephen Walli, Microsoft | [Slides](https://schd.ws/hosted_files/kccncna17/10/OCI%20Overview%20and%20Certification%20Program%20for%20CNCF%202017-12-04_Final.pdf) | [Video] |
-| Embedding the Containerd Runtime for Fun and Profit [I] - Phil Estes, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/10/OCI%20Overview%20and%20Certification%20Program%20for%20CNCF%202017-12-04_Final.pdf) | [Video] |
-| Kata Containers: Hypervisor-Based Container Runtime - Xu Wang, HyperHQ & Samuel Ortiz, Intel | [Slides](https://schd.ws/hosted_files/kccncna17/85/hypervisor-based-container-runtime-v0.pdf) | [Video] |
-| Building Specialized Container-Based Systems with Moby: A Few Use Cases [I] - Patrick Chanezon, Docker | [Slides]() | [Video] |
-| CRI-O: All the Runtime Kubernetes Needs, and Nothing More - Mrunal Patel, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/e8/CRI-O-Kubecon-2017.pdf) | [Video] | 
-| Building Better Containers: A Survey of Container Build Tools [I] - Michael Ducy, Chef | [Slides](https://schd.ws/hosted_files/kccncna17/d8/CNCF%252FKubecon%20NA%202017%20-%20Survey%20of%20Container%20Build%20Tools%20%282%29.pdf) | [Video] |
+| Runtime and Image Format Standards - What it Means to be “OCI-Certified” [I] - Jeff Borek, IBM & Stephen Walli, Microsoft | [Slides](https://schd.ws/hosted_files/kccncna17/10/OCI%20Overview%20and%20Certification%20Program%20for%20CNCF%202017-12-04_Final.pdf) | [Video](https://www.youtube.com/watch?v=-BfhZiJzLeA) |
+| Embedding the Containerd Runtime for Fun and Profit [I] - Phil Estes, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/10/OCI%20Overview%20and%20Certification%20Program%20for%20CNCF%202017-12-04_Final.pdf) | [Video](https://www.youtube.com/watch?v=Z4ZMhEhrL-4) |
+| Kata Containers: Hypervisor-Based Container Runtime - Xu Wang, HyperHQ & Samuel Ortiz, Intel | [Slides](https://schd.ws/hosted_files/kccncna17/85/hypervisor-based-container-runtime-v0.pdf) | [Video](https://www.youtube.com/watch?v=VupUc88FV9Q) |
+| Building Specialized Container-Based Systems with Moby: A Few Use Cases [I] - Patrick Chanezon, Docker | [Slides] | [Video](https://www.youtube.com/watch?v=kDp22YkD6WY) |
+| CRI-O: All the Runtime Kubernetes Needs, and Nothing More - Mrunal Patel, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/e8/CRI-O-Kubecon-2017.pdf) | [Video](https://www.youtube.com/watch?v=NVa8xR4Eyj8) | 
+| Building Better Containers: A Survey of Container Build Tools [I] - Michael Ducy, Chef | [Slides](https://schd.ws/hosted_files/kccncna17/d8/CNCF%252FKubecon%20NA%202017%20-%20Survey%20of%20Container%20Build%20Tools%20%282%29.pdf) | [Video](https://www.youtube.com/watch?v=5D_SqLv92V8) |
 
 ## Continuous Integration + Delivery - CloudNativeCon
 
 | Topic        | Presetation          | Video  |
 |------------- |:-------------:| -----:|
-| Using Containers for Continuous Integration and Continuous Delivery [I] - Carlos Sanchez, CloudBees | [Slides](https://schd.ws/hosted_files/kccncna17/39/Using%20Kubernetes%20for%20Continuous%20Integration%20and%20Continuous%20Delivery.pdf) | [Video] |
-| Deploying to Kubernetes Thousands of Times Per/Day - Dan Garfield, Codefresh & William Denniss, Google | [Slides](https://schd.ws/hosted_files/kccncna17/2c/Kubecon%20-%20Deploying%20Thousands.pdf) | [Video] |
-| Continuous Delivery with Kubernetes at Box [I] - Greg Lyons, Box | [Slides]() | [Video] |
-| Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together [I] - Brian Redmond, Microsoft | [Slides](https://schd.ws/hosted_files/kccncna17/68/KubeCon%202017%20Brian%20Redmond.pdf) | [Video] |
-| Expand Your Spinnaker Pipeline to the Desktop [I] - Sean Korten, Kenzan | [Slides](https://schd.ws/hosted_files/kccncna17/a4/KubeCon%20-%20Extending%20Spinnaker%20to%20the%20Desktop.pdf) | [Video] |
-| Continuous Integration at Scale on Kubernetes [B] - Karthik Gajjala, eBay | [Slides](https://schd.ws/hosted_files/kccncna17/2c/Continuous%20Integration%20at%20Scale%20on%20Kubernetes.pdf) | [Video] |
-| BoF: Cross-Cloud Continuous Integration (CI) of all CNCF Projects Across All Public Clouds - hosted by Chris McClimans, ii.coop; Denver Williams, Goppa; Taylor Carpenter, Vulk.Coop; & Dan Kohn, Cloud Native Computing Foundation | [Slides]() | [Video] |
+| Using Containers for Continuous Integration and Continuous Delivery [I] - Carlos Sanchez, CloudBees | [Slides](https://schd.ws/hosted_files/kccncna17/39/Using%20Kubernetes%20for%20Continuous%20Integration%20and%20Continuous%20Delivery.pdf) | [Video](https://www.youtube.com/watch?v=nclm5KPf3nY) |
+| Deploying to Kubernetes Thousands of Times Per/Day - Dan Garfield, Codefresh & William Denniss, Google | [Slides](https://schd.ws/hosted_files/kccncna17/2c/Kubecon%20-%20Deploying%20Thousands.pdf) | [Video](https://www.youtube.com/watch?v=NZq3Q0G5HKY) |
+| Continuous Delivery with Kubernetes at Box [I] - Greg Lyons, Box | [Slides] | [Video](https://www.youtube.com/watch?v=WQJ61CVthBM) |
+| Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together [I] - Brian Redmond, Microsoft | [Slides](https://schd.ws/hosted_files/kccncna17/68/KubeCon%202017%20Brian%20Redmond.pdf) | [Video](https://www.youtube.com/watch?v=UbLG_qUyCgM) |
+| Expand Your Spinnaker Pipeline to the Desktop [I] - Sean Korten, Kenzan | [Slides](https://schd.ws/hosted_files/kccncna17/a4/KubeCon%20-%20Extending%20Spinnaker%20to%20the%20Desktop.pdf) | [Video](https://www.youtube.com/watch?v=b_Qn_bUVZAY) |
+| Continuous Integration at Scale on Kubernetes [B] - Karthik Gajjala, eBay | [Slides](https://schd.ws/hosted_files/kccncna17/2c/Continuous%20Integration%20at%20Scale%20on%20Kubernetes.pdf) | [Video](https://www.youtube.com/watch?v=_5DIDVLGW4U) |
+| BoF: Cross-Cloud Continuous Integration (CI) of all CNCF Projects Across All Public Clouds - hosted by Chris McClimans, ii.coop; Denver Williams, Goppa; Taylor Carpenter, Vulk.Coop; & Dan Kohn, Cloud Native Computing Foundation | [Slides] | [Video] |
 
 ## Data + Machine Learning 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
 | BoF: Machine Learning on Kubernetes - hosted by David Aronchick, Google | [Slides] | [Video] |
-| All You Need to Know to Build Your GPU Machine Learning Cloud [B] - Ye Lu, Qunar |  [Slides] | [Video] |
-| Building GPU-Accelerated Workflows with TensorFlow and Kubernetes [I] - Daniel Whitenack, Pachyderm | [Slides](https://schd.ws/hosted_files/kccncna17/07/KubeCon-Pachyderm%282%29.pdf) | [Video] |
+| All You Need to Know to Build Your GPU Machine Learning Cloud [B] - Ye Lu, Qunar |  [Slides] | [Video](https://www.youtube.com/watch?v=IoEFLGe4EFs) |
+| Building GPU-Accelerated Workflows with TensorFlow and Kubernetes [I] - Daniel Whitenack, Pachyderm | [Slides](https://schd.ws/hosted_files/kccncna17/07/KubeCon-Pachyderm%282%29.pdf) | [Video](https://www.youtube.com/watch?v=OZSA5hmkb0o) |
 | Building GPU-Accelerated Workflows with TensorFlow and Kubernetes [I] - Daniel Whitenack, Pachyderm | [Slides](https://schd.ws/hosted_files/kccncna17/07/KubeCon-Pachyderm%282%29.pdf) | [Video] |
 | "Hot Dogs or Not" - At Scale with Kubernetes [I] - Vish Kannan & David Aronchick, Google | [Slides] | [Video] |
 | eBay Geo-Distributed Database on Kubernetes [A] - Chengyuan Li & Xinglang Wang, eBay |
