@@ -190,7 +190,7 @@
 | Enable your Microservices with Advanced Resiliency and Fault Tolerance Leveraging Istio [I] - Animesh Singh & Tommy Li, IBM | [Slides] | [Video](https://www.youtube.com/watch?v=j0M3KFB1C1o) |
 | Istio’s Mixer: Policy Enforcement with Custom Adapters [I] - Limin Wang, Google & Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncna17/a6/Istio%27s%20Mixer_%20Policy%20Enforcement%20with%20Custom%20Adapters%20%28CloudNativeCon%2017%29.pdf) | [Video](https://www.youtube.com/watch?v=czZLXUqzd24) |
 
-## KeynoteIstio’s Mixer: Policy Enforcement wi
+## Keynote
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
@@ -206,7 +206,7 @@
 | Keynote: Kubernetes Secret Superpower - Chen Goldberg & Anthony Yeh, Google | [Slides] | [Video](https://www.youtube.com/watch?v=1kjgwXP_N7A) |
 | Keynote: Red Hat: Making Containers Boring (again) - Clayton Coleman, Architect, Kubernetes and OpenShift, Red Hat | [Slides] | [Video](https://www.youtube.com/watch?v=AE0gZlA2sZ8) |
 | Keynote: Pushing the Limits of Kubernetes with Game of Thrones - Zihao Yu & Illya Chekrygin, HBO | [Slides](https://schd.ws/hosted_files/kccncna17/d6/KubeCon_Keynote_HBO.pdf) | [Video](https://www.youtube.com/watch?v=7skInj_vqN0) |
-| Keynote: Progress Toward Zero Trust Kubernetes Networks - Spike Curtis, Senior Software Engineer, Tigera | [Slides] | [Video](https://www.youtube.com/watch?v=Agxt9Vg-YP4) |
+| Keynote: Progress Toward Zero Trust Kubernetes Networks - Spike Curtis, Senior Software Engineer, Tigera | [Slides](https://schd.ws/hosted_files/kccncna17/a9/KubeCon2017-Keynote.pdf) | [Video](https://www.youtube.com/watch?v=Agxt9Vg-YP4) |
 | Keynote: The Road Ahead on the Kubernetes Journey - Craig McLuckie, CEO, Heptio | [Slides] | [Video](https://www.youtube.com/watch?v=3FR82H7NwAw) |
 | Keynote: Kubernetes Community - Sarah Novotny, Head of Open Source Strategy, Google Cloud Platform, Google | [Slides] | [Video](https://www.youtube.com/watch?v=-5R_GbGg1nI) |
 | Keynote: Kubernetes at GitHub - Jesse Newland, Principal Site Reliability Engineer, GitHub | [Slides](https://schd.ws/hosted_files/kccncna17/44/kubernetes-at-github.pdf) | [Video](https://www.youtube.com/watch?v=OgRHIZt8Yy8) |
@@ -218,10 +218,10 @@
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Welcome to Kubernetes - Introduction and Toolkit for Getting Started with Kubernetes [B] - Guinevere Saenger, Samsung SDS | [Slides](https://schd.ws/hosted_files/kccncna17/44/KubeCon-talk.pp.pdf) | [Video] |
-| Persistent Storage with Kubernetes in Production - Which Solution and Why? [I] - Cheryl Hung, StorageOS | [Slides](https://schd.ws/hosted_files/kccncna17/ca/2017-12-8-persistent-storage.pdf) | [Video] |
-| Monitoring Kubernetes: Follow the Data [B] - Ilan Rabinovitch, Datadog | [Slides] | [Video] |
-| From Screen to Pods: Bootstrapping a Cloud Agnostic System using Kubernetes [I] - Patrick McQuighan, Algorithmia | [Slides](https://schd.ws/hosted_files/kccncna17/bc/Kubecon2017%20Bootstrapping%20Cloud%20Agnostic%20System%20.pdf) | [Video] |
+| Welcome to Kubernetes - Introduction and Toolkit for Getting Started with Kubernetes [B] - Guinevere Saenger, Samsung SDS | [Slides](https://schd.ws/hosted_files/kccncna17/44/KubeCon-talk.pp.pdf) | [Video](https://www.youtube.com/watch?v=TkCDUFR6xqw) |
+| Persistent Storage with Kubernetes in Production - Which Solution and Why? [I] - Cheryl Hung, StorageOS | [Slides](https://schd.ws/hosted_files/kccncna17/ca/2017-12-8-persistent-storage.pdf) | [Video](https://www.youtube.com/watch?v=hqE5c5pyfrk) |
+| Monitoring Kubernetes: Follow the Data [B] - Ilan Rabinovitch, Datadog | [Slides] | [Video](https://www.youtube.com/watch?v=XYWI2sf7A14) |
+| From Screen to Pods: Bootstrapping a Cloud Agnostic System using Kubernetes [I] - Patrick McQuighan, Algorithmia | [Slides](https://schd.ws/hosted_files/kccncna17/bc/Kubecon2017%20Bootstrapping%20Cloud%20Agnostic%20System%20.pdf) | [Video](https://www.youtube.com/watch?v=8DguG0E0Z04) |
 
 ## Lightning Talk
 
@@ -260,11 +260,11 @@
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Unified Monitoring of Containers and Microservices [I] - Nishant Sahay, Wipro Limited | [Slides](https://schd.ws/hosted_files/kccncna17/1c/CNCF-UnifiedMonitoring-Final.pdf) | [Video] |
+| Unified Monitoring of Containers and Microservices [I] - Nishant Sahay, Wipro Limited | [Slides](https://schd.ws/hosted_files/kccncna17/1c/CNCF-UnifiedMonitoring-Final.pdf) | [Video](https://www.youtube.com/watch?v=YBVipwfH5cQ) |
 | Full Stack Visibility with Elastic: Logs, Metrics and Traces - Carlos Pérez-Aradros, Elastic | [Slides](https://schd.ws/hosted_files/kccncna17/cd/Full%20Stack%20Visibility%20with%20Elastic%20-%20KubeCon%202017.pdf) | [Video] |
-| Would You Like Some Tracing With Your Monitoring? - Yuri Shkuro, Uber Technologies | [Slides](https://schd.ws/hosted_files/kccncna17/37/KC_CNC_NA17.pdf) | [Video] |
-| The RED Method: How To Instrument Your Services [B] - Tom Wilkie, Kausal | [Slides] | [Video] |
-| Fluentd and Distributed Logging [I] - Masahiro Nakagawa, Treasure Data | [Slides](https://schd.ws/hosted_files/kccncna17/3a/fluentd-and-distributed-logging-at-kubecon.pdf) | [Video] |
+| Would You Like Some Tracing With Your Monitoring? - Yuri Shkuro, Uber Technologies | [Slides](https://schd.ws/hosted_files/kccncna17/37/KC_CNC_NA17.pdf) | [Video](https://www.youtube.com/watch?v=1NDq86kbvbU) |
+| The RED Method: How To Instrument Your Services [B] - Tom Wilkie, Kausal | [Slides] | [Video](https://www.youtube.com/watch?v=TJLpYXbnfQ4) |
+| Fluentd and Distributed Logging [I] - Masahiro Nakagawa, Treasure Data | [Slides](https://schd.ws/hosted_files/kccncna17/3a/fluentd-and-distributed-logging-at-kubecon.pdf) | [Video](https://www.youtube.com/watch?v=XZMGCQ96C80) |
 | gRPC WG Update: Easy Instrumentation with OpenCensus - hosted by April Kyle Nassi, Jaana Burcu Dogan & Morgan McLean, Google | [Slides] | [Video] |
 
 ## OCI Community F2F
@@ -277,23 +277,23 @@
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Establishing Container Trust at Scale [I] - Tim Mackey, Black Duck Software | [Slides] | [Video] |
-| How We Built a Framework at Twitter to Solve Service Ownership & Improve Infrastructure Utilization at Scale [I] - Vinu Charanya, Twitter | [Slides] | [Video] |
+| Establishing Container Trust at Scale [I] - Tim Mackey, Black Duck Software | [Slides] | [Video](https://www.youtube.com/watch?v=uB20VT5UclI) |
+| How We Built a Framework at Twitter to Solve Service Ownership & Improve Infrastructure Utilization at Scale [I] - Vinu Charanya, Twitter | [Slides] | [Video](https://www.youtube.com/watch?v=C6Tv8brYGwo) |
 | The Mechanics of Deploying Envoy at Lyft - Matt Klein, Lyft | [Slides](https://schd.ws/hosted_files/kccncna17/87/Kubecon%2012%252F17.pdf) | [Video] |
-| Kubernetes, Metadata and You [I] - Liz Rice, Aqua Security & Gareth Rushgrove, Puppet | [Slides] | [Video] |
-| Queueing Theory, In Practice: Performance Modelling in Cloud-Native Territory [I] - Eben Freeman, Honeycomb.io | [Slides](https://schd.ws/hosted_files/kccncna17/78/queueing%20theory%20in%20practice.pdf) | [Video] |
-| Cloud Native Logging 101 [B] - Eduardo Silva, Treasure Data | [Slides] | [Video] | 
+| Kubernetes, Metadata and You [I] - Liz Rice, Aqua Security & Gareth Rushgrove, Puppet | [Slides] | [Video](https://www.youtube.com/watch?v=AcM3IRB8FJ0) |
+| Queueing Theory, In Practice: Performance Modelling in Cloud-Native Territory [I] - Eben Freeman, Honeycomb.io | [Slides](https://schd.ws/hosted_files/kccncna17/78/queueing%20theory%20in%20practice.pdf) | [Video](https://www.youtube.com/watch?v=yf6wSsOFqdI) |
+| Cloud Native Logging 101 [B] - Eduardo Silva, Treasure Data | [Slides] | [Video](https://www.youtube.com/watch?v=395iaisdZEY) | 
 
 ## Policy + Security - CloudNativeCon
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| When the Going Gets Tough, Get TUF Going! [I] - David Lawrence & Ashwini Oruganti, Docker | [Slides] | [Video] |
-| The Power of Application Intent Analysis for Container Security [I] - John Morello, Twistlock | [Slides](https://schd.ws/hosted_files/kccncna17/ec/KubeCon%202017_final.pdf) | [Video] |
-| Introducing SPIFFE: An Open Standard for Identity in Cloud Native Environments [I] - Evan Gilman, Scytale | [Slides] | [Video] |
-| IAM on Hybrid Cloud: Next Generation Security Model to Create an Interoperable Cloud [I] - Jeyappragash JJ & Kamil Pawlowski, padme.io | [Slides] | [Video] |
-| How Netflix Is Solving Authorization Across Their Cloud [I] - Manish Mehta & Torin Sandall, Netflix | [Slides](https://schd.ws/hosted_files/kccncna17/cb/Manish%20Mehta%20Netflix%20AuthZ%20V4.pdf) | [Video] |
-| Building a Secure, Multi-Protocol and Multi-Tenant Cluster for Internet-Facing Services [A] - Bich Le, Platform9 | [Slides](https://schd.ws/hosted_files/kccncna17/33/decco_kubecon2017austin.pdf) | [Video] |
+| When the Going Gets Tough, Get TUF Going! [I] - David Lawrence & Ashwini Oruganti, Docker | [Slides] | [Video](https://www.youtube.com/watch?v=JfAil-15YJw) |
+| The Power of Application Intent Analysis for Container Security [I] - John Morello, Twistlock | [Slides](https://schd.ws/hosted_files/kccncna17/ec/KubeCon%202017_final.pdf) | [Video](https://www.youtube.com/watch?v=eHpO2cI-aOM) |
+| Introducing SPIFFE: An Open Standard for Identity in Cloud Native Environments [I] - Evan Gilman, Scytale | [Slides] | [Video](https://www.youtube.com/watch?v=ikmxZdZRTio) |
+| IAM on Hybrid Cloud: Next Generation Security Model to Create an Interoperable Cloud [I] - Jeyappragash JJ & Kamil Pawlowski, padme.io | [Slides] | [Video](https://www.youtube.com/watch?v=nXcXssv1rUs) |
+| How Netflix Is Solving Authorization Across Their Cloud [I] - Manish Mehta & Torin Sandall, Netflix | [Slides](https://schd.ws/hosted_files/kccncna17/cb/Manish%20Mehta%20Netflix%20AuthZ%20V4.pdf) | [Video](https://www.youtube.com/watch?v=R6tUNpRpdnY) |
+| Building a Secure, Multi-Protocol and Multi-Tenant Cluster for Internet-Facing Services [A] - Bich Le, Platform9 | [Slides](https://schd.ws/hosted_files/kccncna17/33/decco_kubecon2017austin.pdf) | [Video](https://www.youtube.com/watch?v=tFdcrncaxD4) |
 
 ## Policy + Security - KubeCon
 
