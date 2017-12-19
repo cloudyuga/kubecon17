@@ -166,31 +166,31 @@
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Embracing Cloud Native at a Thriving, Established Company - Brian Akins, MailChimp | [Slides](https://schd.ws/hosted_files/kccncna17/36/kubecon-2017-v2%20%283%29.pdf) | [Video] |
-| Running Mixed Workloads on Kubernetes at the Institute for Health Metrics and Evaluation - Dr. Tyrone Grandison, Institute for Health Metrics and Evaluation (IHME), University of Washington | [Slides](https://schd.ws/hosted_files/kccncna17/bc/IHME_Univa_4b.pptx) | [Video] |
-| Scaling to 5000+ Unique K8s Deployments, How We Did It [I] - Nicole Hubbard, WP Engine | [Slides](https://schd.ws/hosted_files/kccncna17/d9/KubeCon%202017%20-%20Lostrómos.pdf)      |   [Video] |
-| Automating and Testing Production Ready Kubernetes Clusters in the Public Cloud - Ron Lipke, Gannet/USA Today Network | [Slides](https://schd.ws/hosted_files/kccncna17/b5/rlipke_gannett_kubecon_talk_final.pdf) | [Video] |
-| Large Scale Teaching Infrastructure with Kubernetes - Yuvi Panda, Berkeley University | [Slides] | [Video] |
-| 101 Ways to Crash Your Cluster [I] - Marius Grigoriu & Emmanuel Gomez, Nordstrom | [Slides](https://schd.ws/hosted_files/kccncna17/20/KubeCon%20NA%202017-101%20Ways%20to%20Crash%20Your%20Cluster.pdf) | [Video] |
-| Moving from Mesos to Kubernetes Without Anyone Noticing [I] - Anubhav Mishra, Hootsuite | [Slides](https://schd.ws/hosted_files/kccncna17/f3/Moving%20from%20Mesos%20to%20Kubernetes%20-%20KubeCon%202017.pdf) | [Video] |
-| Kubernetes in the Datacenter: Squarespace’s Journey Towards Self-Service Infrastructure [I] - Kevin Lynch, Squarespace | [Slides](https://schd.ws/hosted_files/kccncna17/9c/Kubernetes%20in%20the%20Datacenter_%20Squarespace%E2%80%99s%20Journey%20Towards%20Self-Service%20Infrastructure%20%28CloudNativeCon%202017%29.pdf) | [Video] |
-| Using Kubernetes to Change Legacy Systems and Processes in the Public Sector [B] - Audun Fauchald Strand, Norwegian Welfare Administration | [Slides](https://schd.ws/hosted_files/kccncna17/f9/KUBECON_Using%20Kubernetes%20to%20Change%20Legacy%20Systems%20and%20Processes%20in%20the%20Public%20Sector.pdf) | [Video] |
-| From Monolith to Microservices with Kubernetes and Linkerd - Mason Jones, Credit Karma | [Slides](https://schd.ws/hosted_files/kccncna17/39/Monolith%20to%20Microservices%20-%20Kubecon%202017.pdf) | [Video] |
-| Evolving and Supporting Stateful, Multi-Tenant Decisioning Applications in Production [A] - Keith Gasser, Capital One | [Slides](https://schd.ws/hosted_files/kccncna17/a5/FINAL_DRAFT_KC_CNC_NA17_PPT_C1_ADV_20171206_KG_BF_GM.pdf) | [Video] |
-| The Oregon Trail to Kubernetes [I] - Joshua Roppo, Lytics | [Slides](https://schd.ws/hosted_files/kccncna17/7e/Oregon%20Trail%20to%20Kubernetes.pdf) | [Video] |
+| Embracing Cloud Native at a Thriving, Established Company - Brian Akins, MailChimp | [Slides](https://schd.ws/hosted_files/kccncna17/36/kubecon-2017-v2%20%283%29.pdf) | [Video](https://www.youtube.com/watch?v=LFKyQOaSuxk) |
+| Running Mixed Workloads on Kubernetes at the Institute for Health Metrics and Evaluation - Dr. Tyrone Grandison, Institute for Health Metrics and Evaluation (IHME), University of Washington | [Slides](https://schd.ws/hosted_files/kccncna17/bc/IHME_Univa_4b.pptx) | [Video](https://www.youtube.com/watch?v=JfIJiK7QrC8) |
+| Scaling to 5000+ Unique K8s Deployments, How We Did It [I] - Nicole Hubbard, WP Engine | [Slides](https://schd.ws/hosted_files/kccncna17/d9/KubeCon%202017%20-%20Lostrómos.pdf) | [Video](https://www.youtube.com/watch?v=al9F5r7IkKQ) |
+| Automating and Testing Production Ready Kubernetes Clusters in the Public Cloud - Ron Lipke, Gannet/USA Today Network | [Slides](https://schd.ws/hosted_files/kccncna17/b5/rlipke_gannett_kubecon_talk_final.pdf) | [Video](https://www.youtube.com/watch?v=_n5nPlNFHYY)|
+| Large Scale Teaching Infrastructure with Kubernetes - Yuvi Panda, Berkeley University | [Slides] | [Video](https://www.youtube.com/watch?v=g5rl7T18n-s) |
+| 101 Ways to Crash Your Cluster [I] - Marius Grigoriu & Emmanuel Gomez, Nordstrom | [Slides](https://schd.ws/hosted_files/kccncna17/20/KubeCon%20NA%202017-101%20Ways%20to%20Crash%20Your%20Cluster.pdf) | [Video](https://www.youtube.com/watch?v=xZO9nx6GBu0) |
+| Moving from Mesos to Kubernetes Without Anyone Noticing [I] - Anubhav Mishra, Hootsuite | [Slides](https://schd.ws/hosted_files/kccncna17/f3/Moving%20from%20Mesos%20to%20Kubernetes%20-%20KubeCon%202017.pdf) | [Video](https://www.youtube.com/watch?v=TaHQOJBLvkM) |
+| Kubernetes in the Datacenter: Squarespace’s Journey Towards Self-Service Infrastructure [I] - Kevin Lynch, Squarespace | [Slides](https://schd.ws/hosted_files/kccncna17/9c/Kubernetes%20in%20the%20Datacenter_%20Squarespace%E2%80%99s%20Journey%20Towards%20Self-Service%20Infrastructure%20%28CloudNativeCon%202017%29.pdf) | [Video](https://www.youtube.com/watch?v=oHrcWU9Tyz4) |
+| Using Kubernetes to Change Legacy Systems and Processes in the Public Sector [B] - Audun Fauchald Strand, Norwegian Welfare Administration | [Slides](https://schd.ws/hosted_files/kccncna17/f9/KUBECON_Using%20Kubernetes%20to%20Change%20Legacy%20Systems%20and%20Processes%20in%20the%20Public%20Sector.pdf) | [Video](https://www.youtube.com/watch?v=Sp1vCVivBVg) |
+| From Monolith to Microservices with Kubernetes and Linkerd - Mason Jones, Credit Karma | [Slides](https://schd.ws/hosted_files/kccncna17/39/Monolith%20to%20Microservices%20-%20Kubecon%202017.pdf) | [Video](https://www.youtube.com/watch?v=PoGUI74TimM) |
+| Evolving and Supporting Stateful, Multi-Tenant Decisioning Applications in Production [A] - Keith Gasser, Capital One | [Slides](https://schd.ws/hosted_files/kccncna17/a5/FINAL_DRAFT_KC_CNC_NA17_PPT_C1_ADV_20171206_KG_BF_GM.pdf) | [Video](https://www.youtube.com/watch?v=UHVW01ksg-s) |
+| The Oregon Trail to Kubernetes [I] - Joshua Roppo, Lytics | [Slides](https://schd.ws/hosted_files/kccncna17/7e/Oregon%20Trail%20to%20Kubernetes.pdf) | [Video](https://www.youtube.com/watch?v=jaLyEuVebsQ) |
 
 ## Istio
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| IoK: Istio-on-Kubernetes Deep Dive [I] - Daneyon Hansen, Cisco | [Slides](https://schd.ws/hosted_files/kccncna17/21/KubeCon2017%20-%20Istio%20Security.pdf) | [Video] |
-| Istio: Sailing to a Secure Services Mesh [I] - Spike Curtis, Tigera & Dan Berg, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/21/KubeCon2017%20-%20Istio%20Security.pdf) | [Video] |
-| Setting Sail with Istio [B] - Lachlan Evenson, Microsoft | [Slides](https://schd.ws/hosted_files/kccncna17/ab/Setting%20Sail%20with%20Istio.pdf) | [Video] |
-| Reliable Application Roll Out and Operations with Istio [B] - Lin Sun, IBM & Mandar Jog, Google | [Slides] | [Video] |
-| Enable your Microservices with Advanced Resiliency and Fault Tolerance Leveraging Istio [I] - Animesh Singh & Tommy Li, IBM | [Slides] | [Video] |
-| Istio’s Mixer: Policy Enforcement with Custom Adapters [I] - Limin Wang, Google & Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncna17/a6/Istio%27s%20Mixer_%20Policy%20Enforcement%20with%20Custom%20Adapters%20%28CloudNativeCon%2017%29.pdf) | [Video] |
+| IoK: Istio-on-Kubernetes Deep Dive [I] - Daneyon Hansen, Cisco | [Slides](https://schd.ws/hosted_files/kccncna17/21/KubeCon2017%20-%20Istio%20Security.pdf) | [Video](https://www.youtube.com/watch?v=NMa9frJs1hA) |
+| Istio: Sailing to a Secure Services Mesh [I] - Spike Curtis, Tigera & Dan Berg, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/21/KubeCon2017%20-%20Istio%20Security.pdf) | [Video](https://www.youtube.com/watch?v=HMofcmTD444) |
+| Setting Sail with Istio [B] - Lachlan Evenson, Microsoft | [Slides](https://schd.ws/hosted_files/kccncna17/ab/Setting%20Sail%20with%20Istio.pdf) | [Video](https://www.youtube.com/watch?v=wq1nlJNvy1w) |
+| Reliable Application Roll Out and Operations with Istio [B] - Lin Sun, IBM & Mandar Jog, Google | [Slides] | [Video](https://www.youtube.com/watch?v=8fbBnpCXP5k) |
+| Enable your Microservices with Advanced Resiliency and Fault Tolerance Leveraging Istio [I] - Animesh Singh & Tommy Li, IBM | [Slides] | [Video](https://www.youtube.com/watch?v=j0M3KFB1C1o) |
+| Istio’s Mixer: Policy Enforcement with Custom Adapters [I] - Limin Wang, Google & Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncna17/a6/Istio%27s%20Mixer_%20Policy%20Enforcement%20with%20Custom%20Adapters%20%28CloudNativeCon%2017%29.pdf) | [Video](https://www.youtube.com/watch?v=czZLXUqzd24) |
 
-## Keynote
+## KeynoteIstio’s Mixer: Policy Enforcement wi
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
