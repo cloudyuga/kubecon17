@@ -299,17 +299,17 @@
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Deploying Kubernetes Without Scaring Off Your Security Team [I] - Paul CzarkowskI, Pivotal & Major Hayden, Rackspace | [Slides](https://schd.ws/hosted_files/kccncna17/db/KubeCon%202017%20-%20Deploying%20Kubernetes%20Without%20Scaring%20Off%20Your%20Security%20Team.pdf) | [Video] |
-| Preventing Attacks at Scale [I] - Dino Dai Zovi, Capsule8 | [Slides](https://schd.ws/hosted_files/kccncna17/30/Preventing%20Attacks%20at%20Scale.pdf) | [Video] |
-| Certifik8s: All You Need to Know About Certificates in Kubernetes [I] - Alexander Brand, Apprenda | [Slides](https://schd.ws/hosted_files/kccncna17/15/Certifik8s_%20All%20You%20Need%20to%20Know%20About%20Certificates%20in%20Kubernetes.pdf) | [Video] |
-| Vault and Secret Management in Kubernetes [I] - Armon Dadgar, HashiCorp | [Slides](https://schd.ws/hosted_files/kccncna17/a1/KubeCon.pdf) | [Video] |
-| Compliance and Identity Management in Kubernetes [I] - Marc Boorshtein, Tremolo Security, Inc. | [Slides](https://schd.ws/hosted_files/kccncna17/c4/kubecon_idm_k8s_2.pdf) | [Video] |
-| Multi-Tenancy Support & Security Modeling with RBAC and Namespaces [I] - Fred Vong & Michael Y. Chen, VMware | [Slides](https://schd.ws/hosted_files/kccncna17/21/Multi-tenancy%20Support%20%26%20Security%20Modeling%20with%20RBAC%20and%20Namespaces.pdf) | [Video] |
-| Shipping in Pirate-Infested Waters: Practical Attack and Defense in Kubernetes [A] - Greg Castle & CJ Cullen, Google | [Slides](https://schd.ws/hosted_files/kccncna17/aa/Kubecon17_Castle_Cullen_Shipping_in_pirate-infested_waters.pdf) | [Video] |
-| Enforcing Bespoke Policies in Kubernetes [I] - Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncna17/eb/Enforcing%20Bespoke%20Policies%20in%20Kubernetes.pdf) | [Video] |
-| Hacking and Hardening Kubernetes Clusters by Example [I] - Brad Geesaman, Symantec | [Slides](https://schd.ws/hosted_files/kccncna17/d8/Hacking%20and%20Hardening%20Kubernetes%20By%20Example%20v2.pdf) | [Video] |
-| Securing Shopify's PaaS on GKE [I] - Jonathan Pulsifer, Shopify | [Slides](https://schd.ws/hosted_files/kccncna17/2d/Securing%20Shopify%27s%20PaaS%20on%20GKE.pdf) | [Video] |
-| Real Security for Services on Kubernetes [I] - Eric Wang & Yun Zhang, Databricks | [Slides](https://schd.ws/hosted_files/kccncna17/0d/KubeCon-Slides-Databricks.pdf) | [Video] |
+| Deploying Kubernetes Without Scaring Off Your Security Team [I] - Paul CzarkowskI, Pivotal & Major Hayden, Rackspace | [Slides](https://schd.ws/hosted_files/kccncna17/db/KubeCon%202017%20-%20Deploying%20Kubernetes%20Without%20Scaring%20Off%20Your%20Security%20Team.pdf) | [Video](https://www.youtube.com/watch?v=VOF9KVOekY8) |
+| Preventing Attacks at Scale [I] - Dino Dai Zovi, Capsule8 | [Slides](https://schd.ws/hosted_files/kccncna17/30/Preventing%20Attacks%20at%20Scale.pdf) | [Video](https://www.youtube.com/watch?v=P8891Z_uj-0) |
+| Certifik8s: All You Need to Know About Certificates in Kubernetes [I] - Alexander Brand, Apprenda | [Slides](https://schd.ws/hosted_files/kccncna17/15/Certifik8s_%20All%20You%20Need%20to%20Know%20About%20Certificates%20in%20Kubernetes.pdf) | [Video](https://www.youtube.com/watch?v=gXz4cq3PKdg) |
+| Vault and Secret Management in Kubernetes [I] - Armon Dadgar, HashiCorp | [Slides](https://schd.ws/hosted_files/kccncna17/a1/KubeCon.pdf) | [Video](https://www.youtube.com/watch?v=FhUJYwM_xy0) |
+| Compliance and Identity Management in Kubernetes [I] - Marc Boorshtein, Tremolo Security, Inc. | [Slides](https://schd.ws/hosted_files/kccncna17/c4/kubecon_idm_k8s_2.pdf) | [Video](https://www.youtube.com/watch?v=7JJsaVR65sI) |
+| Multi-Tenancy Support & Security Modeling with RBAC and Namespaces [I] - Fred Vong & Michael Y. Chen, VMware | [Slides](https://schd.ws/hosted_files/kccncna17/21/Multi-tenancy%20Support%20%26%20Security%20Modeling%20with%20RBAC%20and%20Namespaces.pdf) | [Video](https://www.youtube.com/watch?v=ahwCkJGItkU)|
+| Shipping in Pirate-Infested Waters: Practical Attack and Defense in Kubernetes [A] - Greg Castle & CJ Cullen, Google | [Slides](https://schd.ws/hosted_files/kccncna17/aa/Kubecon17_Castle_Cullen_Shipping_in_pirate-infested_waters.pdf) | [Video](https://www.youtube.com/watch?v=ohTq0no0ZVU) |
+| Enforcing Bespoke Policies in Kubernetes [I] - Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncna17/eb/Enforcing%20Bespoke%20Policies%20in%20Kubernetes.pdf) | [Video](https://www.youtube.com/watch?v=llDI8VvkUj8) |
+| Hacking and Hardening Kubernetes Clusters by Example [I] - Brad Geesaman, Symantec | [Slides](https://schd.ws/hosted_files/kccncna17/d8/Hacking%20and%20Hardening%20Kubernetes%20By%20Example%20v2.pdf) | [Video](https://www.youtube.com/watch?v=vTgQLzeBfRU) |
+| Securing Shopify's PaaS on GKE [I] - Jonathan Pulsifer, Shopify | [Slides](https://schd.ws/hosted_files/kccncna17/2d/Securing%20Shopify%27s%20PaaS%20on%20GKE.pdf) | [Video](https://www.youtube.com/watch?v=ZrweAu9T24A) |
+| Real Security for Services on Kubernetes [I] - Eric Wang & Yun Zhang, Databricks | [Slides](https://schd.ws/hosted_files/kccncna17/0d/KubeCon-Slides-Databricks.pdf) | [Video](https://www.youtube.com/watch?v=zvXQjpy5Pu8) |
 | Effective RBAC - Jordan Liggitt, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/5b/Effective%20RBAC.pdf) | [Video] |
 
 ## Project Office Hours
