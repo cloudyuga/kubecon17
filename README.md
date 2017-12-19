@@ -310,7 +310,7 @@
 | Hacking and Hardening Kubernetes Clusters by Example [I] - Brad Geesaman, Symantec | [Slides](https://schd.ws/hosted_files/kccncna17/d8/Hacking%20and%20Hardening%20Kubernetes%20By%20Example%20v2.pdf) | [Video](https://www.youtube.com/watch?v=vTgQLzeBfRU) |
 | Securing Shopify's PaaS on GKE [I] - Jonathan Pulsifer, Shopify | [Slides](https://schd.ws/hosted_files/kccncna17/2d/Securing%20Shopify%27s%20PaaS%20on%20GKE.pdf) | [Video](https://www.youtube.com/watch?v=ZrweAu9T24A) |
 | Real Security for Services on Kubernetes [I] - Eric Wang & Yun Zhang, Databricks | [Slides](https://schd.ws/hosted_files/kccncna17/0d/KubeCon-Slides-Databricks.pdf) | [Video](https://www.youtube.com/watch?v=zvXQjpy5Pu8) |
-| Effective RBAC - Jordan Liggitt, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/5b/Effective%20RBAC.pdf) | [Video] |
+| Effective RBAC - Jordan Liggitt, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/5b/Effective%20RBAC.pdf) | [Video](https://www.youtube.com/watch?v=Nw1ymxcLIDI) |
 
 ## Project Office Hours
 
@@ -339,23 +339,23 @@
 ##  Serverless - KubeCon
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| State of Serverless [B] - Mark Peek, VMware & Doug Davis, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/af/state_of_serverless.pdf) | [Video] |
-| Building Serverless Application Pipelines [A] - Sebastien Goasguen, Bitnami | [Slides] | [Video] |
-| FaaS and Furious - 0 to Serverless in 60 Seconds, Anywhere - Alex Ellis, ADP | [Slides] | [Video] |
-| Fission: Serverless Functions for Kubernetes [B] - Soam Vasani, Platform9 Systems | [Slides] | [Video] |
-| Pontoon: An Enterprise Grade Serverless Framework Using Kubernetes – As Used in VMware Cloud Services [I] - Kumar Gaurav & Mageshwaran Rajendran, VMware| [Slides](https://schd.ws/hosted_files/kccncna17/f8/PONTOON_KC_CNC_NA17_PPT.pdf) | [Video] |
-| Building and Running an Enterprise-grade Serverless Platform on Kubernetes - Ying Huang & Quinton Hoole, Huawei | [Slides](https://schd.ws/hosted_files/kccncna17/a2/Serverless-Presentation-12-07-2017.pptx) | [Video] |
+| State of Serverless [B] - Mark Peek, VMware & Doug Davis, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/af/state_of_serverless.pdf) | [Video](https://www.youtube.com/watch?v=SNJipRS8qxw) |
+| Building Serverless Application Pipelines [A] - Sebastien Goasguen, Bitnami | [Slides] | [Video](https://www.youtube.com/watch?v=8P-aXKylCVs) |
+| FaaS and Furious - 0 to Serverless in 60 Seconds, Anywhere - Alex Ellis, ADP | [Slides] | [Video](https://www.youtube.com/watch?v=XgsxqHQvMnM) |
+| Fission: Serverless Functions for Kubernetes [B] - Soam Vasani, Platform9 Systems | [Slides] | [Video](https://www.youtube.com/watch?v=X-XV6vvwhuo) |
+| Pontoon: An Enterprise Grade Serverless Framework Using Kubernetes – As Used in VMware Cloud Services [I] - Kumar Gaurav & Mageshwaran Rajendran, VMware | [Slides](https://schd.ws/hosted_files/kccncna17/f8/PONTOON_KC_CNC_NA17_PPT.pdf) | [Video](https://www.youtube.com/watch?v=feFrLrEvqfk) |
+| Building and Running an Enterprise-grade Serverless Platform on Kubernetes - Ying Huang & Quinton Hoole, Huawei | [Slides](https://schd.ws/hosted_files/kccncna17/a2/Serverless-Presentation-12-07-2017.pptx) | [Video](https://www.youtube.com/watch?v=Y5yQC_20QlI) |
 
 ## Services - CloudNativeCon
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Panel: Ask Me Anything: Microservices and Service Mesh [B] - Moderated by Jason McGee, IBM | [Slides] | [Video] |
-| Istio: Weaving the Service Mesh [I] - Shriram Rajagopalan, IBM & Louis Ryan, Google | [Slides] | [Video] |
-| Ask Your Proxy, It Knows Everything - Blake Mizerany, Backplane | [Slides] | [Video] |
-| Microservices Patterns with NGINX Proxy in an Istio Services Mesh [I] - A.J. Hunyady, NGINX Inc | [Slides] | [Video] |
-| Building an Edge Computing Platform for Network Services Using Cloud Native Technology [I] - Stephen Wong & Vikram Dham, Huawei Technologies, Inc. | [Slides](https://schd.ws/hosted_files/kccncna17/9f/EdgeComputingCloudNative.pdf) | [Video] |
-| The Service Mesh: Past, Present, and Future [B] - William Morgan, Buoyant | [Slides] | [Video] |
+| Panel: Ask Me Anything: Microservices and Service Mesh [B] - Moderated by Jason McGee, IBM | [Slides] | [Video](https://www.youtube.com/watch?v=22oL0j8mh9w) |
+| Istio: Weaving the Service Mesh [I] - Shriram Rajagopalan, IBM & Louis Ryan, Google | [Slides] | [Video](https://www.youtube.com/watch?v=WFEllbmRI8U) |
+| Ask Your Proxy, It Knows Everything - Blake Mizerany, Backplane | [Slides] | [Video](https://www.youtube.com/watch?v=43wFJBRTHG0) |
+| Microservices Patterns with NGINX Proxy in an Istio Services Mesh [I] - A.J. Hunyady, NGINX Inc | [Slides] | [Video](https://www.youtube.com/watch?v=43wFJBRTHG0) |
+| Building an Edge Computing Platform for Network Services Using Cloud Native Technology [I] - Stephen Wong & Vikram Dham, Huawei Technologies, Inc. | [Slides](https://schd.ws/hosted_files/kccncna17/9f/EdgeComputingCloudNative.pdf) | [Video](https://www.youtube.com/watch?v=JcfGWwzzHTc) |
+| The Service Mesh: Past, Present, and Future [B] - William Morgan, Buoyant | [Slides] | [Video](https://www.youtube.com/watch?v=2trOvMUuLkk) |
 
 ## Sponsor Showcase Open
 | Topic        | Presetation          | Video  |
@@ -366,25 +366,25 @@
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| You Have Stateful Apps - What if Kubernetes Would Also Run Your Storage? - Annette Clewett & Sudhir Prasad, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/7b/KubeRunningYourStorage1208.pdf) | [Video] |
-| Local Ephemeral Storage Resource Management - Jing Xu, Google | [Slides](https://schd.ws/hosted_files/kccncna17/3e/Kubecon_localstorage.pdf) | [Video] |
-| Block Volumes Support in Kubernetes [I] - Mitsuhiro Tanino, Hitachi Data Systems | [Slides](https://schd.ws/hosted_files/kccncna17/8e/Mitsuhiro_Tanino_Block_Volume_KC_CNC_NA17.pdf) | [Video] |
-| Providing Containerized Cinder Services to Baremetal Kubernetes Clusters [I] - John Griffith, NetApp & Huamin Chen, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/20/CinderForK8s.pdf) | [Video] |
+| You Have Stateful Apps - What if Kubernetes Would Also Run Your Storage? - Annette Clewett & Sudhir Prasad, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/7b/KubeRunningYourStorage1208.pdf) | [Video](https://www.youtube.com/watch?v=Fgpr2lMnBVY) |
+| Local Ephemeral Storage Resource Management - Jing Xu, Google | [Slides](https://schd.ws/hosted_files/kccncna17/3e/Kubecon_localstorage.pdf) | [Video](https://www.youtube.com/watch?v=cvK1t1h15XM) |
+| Block Volumes Support in Kubernetes [I] - Mitsuhiro Tanino, Hitachi Data Systems | [Slides](https://schd.ws/hosted_files/kccncna17/8e/Mitsuhiro_Tanino_Block_Volume_KC_CNC_NA17.pdf) | [Video](https://www.youtube.com/watch?v=k8_QQ9eNa-g) |
+| Providing Containerized Cinder Services to Baremetal Kubernetes Clusters [I] - John Griffith, NetApp & Huamin Chen, Red Hat | [Slides](https://schd.ws/hosted_files/kccncna17/20/CinderForK8s.pdf) | [Video](https://www.youtube.com/watch?v=vCDlQ0F4kik) |
 | Economics of using Local Storage Attached to VMs on Cloud Providers [I] - Pavel Snagovsky, Quantum | [Slides](https://schd.ws/hosted_files/kccncna17/b3/Cloud%20storage-2.pdf) | [Video] |
-| Kubernetes Storage Evolution: Enabling High Performance Distributed Datastores [A] - Erin A Boyd, Red Hat & Michelle Au, Google | [Slides](https://schd.ws/hosted_files/kccncna17/3c/2017%20Kubecon%20Storage%20-%20FINAL.pdf) | [Video] |
+| Kubernetes Storage Evolution: Enabling High Performance Distributed Datastores [A] - Erin A Boyd, Red Hat & Michelle Au, Google | [Slides](https://schd.ws/hosted_files/kccncna17/3c/2017%20Kubecon%20Storage%20-%20FINAL.pdf) | [Video](https://www.youtube.com/watch?v=5O5MIfGxCrI) |
 
 ## The NewStack Pancake Breakfast & Podcast
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| The NewStack Pancake Breakfast & Podcast: What is service mesh technology, why are we hearing about it and why should we care? | [Slides] | [Video] |
+| The NewStack Pancake Breakfast & Podcast: What is service mesh technology, why are we hearing about it and why should we care? | [Slides] | [Video](https://www.youtube.com/watch?v=el6fWr689t0) |
 | The NewStack Pancake Breakfast & Podcast: Evolving Patterns in Kubernetes and Cloud Native Technologies | [Slides] | [Video] |
 
 ## Trainings
 
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
-| Introduction to Kubernetes and Containers w/Heptio | [Slides] | [Video] |
+| Introduction to Kubernetes and Containers w/Heptio | [Slides] | [Video](https://www.youtube.com/watch?v=vQX5nokoqrQ) |
 | Kubernetes Core Concepts Live Training w/Bitnami | [Slides] | [Video] |
 | Container Troubleshooting with Sysdig Open Source | [Slides] | [Video] |
 
