@@ -108,6 +108,7 @@
 | BoF: Cross-Cloud Continuous Integration (CI) of all CNCF Projects Across All Public Clouds - hosted by Chris McClimans, ii.coop; Denver Williams, Goppa; Taylor Carpenter, Vulk.Coop; & Dan Kohn, Cloud Native Computing Foundation | [Slides] | [Video] |
 
 ## Data + Machine Learning 
+
 | Topic        | Presetation          | Video  |
 | ------------- |:-------------:| -----:|
 | BoF: Machine Learning on Kubernetes - hosted by David Aronchick, Google | [Slides] | [Video] |
@@ -134,12 +135,6 @@
 | Distributed Workflows for Microservices-Style Applications [I] - Yun Qin, Nirmata |  [Slides](https://schd.ws/hosted_files/kccncna17/96/Distributed%20Workflow%20for%20Microservices-style%20Applications.pdf) | [Video](https://www.youtube.com/watch?v=irML9LDtSFA) |
 | Modifying gRPC Services Over Time [I] - Eric Anderson, Google |  [Slides](https://schd.ws/hosted_files/kccncna17/ad/2017%20CloudNativeCon%20-%20Mod%20gRPC%20Services.pdf) | [Video](https://www.youtube.com/watch?v=F2WYEFLTKEw) |
 | A Practical Guide to Prometheus for App Developers [B] - Ilya Dmitrichenko, Weaveworks |  [Slides] | [Video](https://www.youtube.com/watch?v=-7fO99IiTpY) |
-
-## Docs Sprint
-
-| Topic        | Presetation          | Video  |
-| ------------- |:-------------:| -----:|
-| Kubernetes Docs Sprint | [Slides] | [Video] |
 
 ## Extending Kubernetes
 
@@ -213,8 +208,6 @@
 | Reliable Application Roll Out and Operations with Istio [B] - Lin Sun, IBM & Mandar Jog, Google | [Slides] | [Video](https://www.youtube.com/watch?v=8fbBnpCXP5k) |
 | Enable your Microservices with Advanced Resiliency and Fault Tolerance Leveraging Istio [I] - Animesh Singh & Tommy Li, IBM | [Slides] | [Video](https://www.youtube.com/watch?v=j0M3KFB1C1o) |
 | Istio’s Mixer: Policy Enforcement with Custom Adapters [I] - Limin Wang, Google & Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncna17/a6/Istio%27s%20Mixer_%20Policy%20Enforcement%20with%20Custom%20Adapters%20%28CloudNativeCon%2017%29.pdf) | [Video](https://www.youtube.com/watch?v=czZLXUqzd24) |
-
-
 
 ## Kubernetes 101
 
