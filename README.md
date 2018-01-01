@@ -167,7 +167,7 @@
 | Istio: Sailing to a Secure Services Mesh [I] - Spike Curtis, Tigera & Dan Berg, IBM | [Slides](https://schd.ws/hosted_files/kccncna17/21/KubeCon2017%20-%20Istio%20Security.pdf) | [Video](https://www.youtube.com/watch?v=HMofcmTD444) | 
 | Disaster Recovery for your Kubernetes Clusters [I] - Andy Goldstein & Steve Kriss, Heptio | [Slides](https://schd.ws/hosted_files/kccncna17/a9/Disaster%20Recovery%20for%20your%20Kubernetes%20Clusters.pdf) | [Video](https://www.youtube.com/watch?v=qRPNuT080Hk) |
 | Persistent Storage with Kubernetes in Production - Which Solution and Why? [I] - Cheryl Hung, StorageOS | [Slides](https://schd.ws/hosted_files/kccncna17/ca/2017-12-8-persistent-storage.pdf) | [Video](https://www.youtube.com/watch?v=hqE5c5pyfrk) |
-| kubectl apply, and The Dark Art of Declarative Object Management [I] - Aaron Levy, CoreOS | [Slides]() | [Video](https://www.youtube.com/watch?v=CW3ZuQy_YZw) |
+| kubectl apply, and The Dark Art of Declarative Object Management [I] - Aaron Levy, CoreOS | [Slides](https://schd.ws/hosted_files/kccncna17/a3/kubectl%20apply.pdf) | [Video](https://www.youtube.com/watch?v=CW3ZuQy_YZw) |
 | What Happens When Something Goes Wrong? On Kubernetes Reliability [I] - Marek Grabowski & Tina Zhang, Google | [Slides](https://schd.ws/hosted_files/kccncna17/71/What%20happens%20when%20something%20goes%20wrong.pdf) | [Video](https://www.youtube.com/watch?v=4QiWLxG-SlY) |
 
 ## Hybrid + Multi-Cloud
