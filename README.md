@@ -67,7 +67,7 @@
 | Hybrid Cloud Powered by Kubernetes [I] - Aparna Sinha, Eric Brewer & Matthew DeLio, Google | [Slides]() | [Video](https://www.youtube.com/watch?v=PBfHylG4wSE) |
 | Zero Configuration Pattern of Kubernetes on Bare Metal [A] - Rob Hirschfeld, RackN | [Slides](https://schd.ws/hosted_files/kccncna17/70/Kubecon%202017%20Zero%20Touch%20Provision.pdf) | [Video](https://www.youtube.com/watch?v=Psm9aOWzfWk) |
 | Cost-effective Compute Clusters with Spot and Pre-emptible Instances [I] - Bich Le & Arun Sriraman, Platform9 | [Slides](https://schd.ws/hosted_files/kccncna17/6c/Cost-effective%20Compute%20Clusters%20Kubecon2017.pdf) | [Video](https://www.youtube.com/watch?v=1ZeDabvJFbY) |
-| Self-Hosted Kubernetes: How and Why [I] - Diego Pontoriero, CoreOS | [Slides](https://schd.ws/hosted_files/kccncna17/50/Self-Hosted%20Kubernetes_%20How%20and%20Why.pdf) | [Video] |
+| Self-Hosted Kubernetes: How and Why [I] - Diego Pontoriero, CoreOS | [Slides](https://schd.ws/hosted_files/kccncna17/50/Self-Hosted%20Kubernetes_%20How%20and%20Why.pdf) | [Video](https://youtu.be/jIZ8NaR7msI) |
 | Cluster-in-a-Box: Deploying Kubernetes on lxd [B] - Rye Terrell, Canonical & Marco Ceppi, The Silph Road | [Slides](https://schd.ws/hosted_files/kccncna17/b2/Cluster-in-a-box.pptx) | [Video](https://www.youtube.com/watch?v=kQslklE5dKs) |
 | Using Kubo to Manage your Kubernetes Clusters [I] - Oleksandr Slynko & Brendan Nolan, Pivotal | [Slides](https://schd.ws/hosted_files/kccncna17/f4/Using%20CFCR%20to%20manage%20your%20Kubernetes%20Clusters%20-%20Complete.pdf) | [Video](https://www.youtube.com/watch?v=7qzVgi3kg2k)|
 
